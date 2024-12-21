@@ -1,0 +1,852 @@
+[
+  {
+    "id": "63a1234567b89c8d90e12345",
+    "name": "Samsung Galaxy S23 Ultra",
+    "description": "The Samsung Galaxy S23 Ultra features a 200MP camera, Snapdragon 8 Gen 2 processor, and a stunning 6.8-inch AMOLED display.",
+    "price": 1199.99,
+    "category": "Smartphones",
+    "brand": "Samsung",
+    "stock": 50,
+    "rating": 4.8,
+    "reviewsCount": 123,
+    "images": ["https://i.postimg.cc/C5369Zmh/Galaxy-S23-Ultra.png"],
+    "specifications": {
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": "12GB",
+      "storage": "512GB",
+      "battery": "5000mAh",
+      "camera": "200MP + 12MP + 10MP + 10MP",
+      "display": "6.8-inch AMOLED, 120Hz"
+    },
+
+    "hotDeals": true,
+    "seller": {
+      "id": "63a2345678b89c8d90e23456",
+      "name": "TechWorld Store",
+      "contactEmail": "seller@techworld.com"
+    },
+    "createdAt": "2024-12-20T10:30:00.000Z",
+    "updatedAt": "2024-12-21T15:00:00.000Z"
+  },
+  {
+    "id": "63a2345678b89c8d90e23457",
+    "name": "Samsung Galaxy Z Fold 5",
+    "description": "The Samsung Galaxy Z Fold 5 offers a foldable 7.6-inch AMOLED display, Snapdragon 8 Gen 2 chip, and enhanced multitasking features.",
+    "price": 1799.99,
+    "category": "Smartphones",
+    "brand": "Samsung",
+    "stock": 30,
+    "rating": 4.7,
+    "reviewsCount": 95,
+    "images": [
+      "https://i.postimg.cc/NF9zN88C/Samsung-Galaxy-Z-Fold-5-Icy-Blue.png"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": "12GB",
+      "storage": "256GB",
+      "battery": "4400mAh",
+      "camera": "50MP + 12MP + 10MP",
+      "display": "7.6-inch AMOLED, 120Hz"
+    },
+    "hotDeals": false,
+    "seller": {
+      "id": "63a2345678b89c8d90e23458",
+      "name": "SmartGadget Store",
+      "contactEmail": "sales@smartgadget.com"
+    },
+    "createdAt": "2024-12-19T12:00:00.000Z",
+    "updatedAt": "2024-12-21T15:00:00.000Z"
+  },
+  {
+    "id": "63a2345678b89c8d90e23459",
+    "name": "Samsung Galaxy Z Flip 5",
+    "description": "The Samsung Galaxy Z Flip 5 features a compact foldable design, a 6.7-inch AMOLED display, and dual 12MP cameras.",
+    "price": 999.99,
+    "category": "Smartphones",
+    "brand": "Samsung",
+    "stock": 45,
+    "rating": 4.6,
+    "reviewsCount": 110,
+    "images": ["https://i.postimg.cc/265JWN1D/Samsung-Galaxy-Z-Flip-5.png"],
+    "specifications": {
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": "8GB",
+      "storage": "128GB",
+      "battery": "3700mAh",
+      "camera": "12MP + 12MP",
+      "display": "6.7-inch AMOLED, 120Hz"
+    },
+    "hotDeals": false,
+    "seller": {
+      "id": "63a2345678b89c8d90e23460",
+      "name": "MobileHub",
+      "contactEmail": "info@mobilehub.com"
+    },
+    "createdAt": "2024-12-18T15:00:00.000Z",
+    "updatedAt": "2024-12-21T15:00:00.000Z"
+  },
+  {
+    "id": "63a2345678b89c8d90e23461",
+    "name": "Samsung Galaxy S22 Ultra",
+    "description": "The Samsung Galaxy S22 Ultra features an iconic design, a 108MP camera, and the Exynos 2200 processor.",
+    "price": 999.99,
+    "category": "Smartphones",
+    "brand": "Samsung",
+    "stock": 40,
+    "rating": 4.7,
+    "reviewsCount": 200,
+    "images": [
+      "https://i.postimg.cc/Pf0Xd27x/Samsung-Galaxy-S22-Ultra-5-G.png"
+    ],
+    "specifications": {
+      "processor": "Exynos 2200",
+      "ram": "8GB",
+      "storage": "256GB",
+      "battery": "5000mAh",
+      "camera": "108MP + 12MP + 10MP + 10MP",
+      "display": "6.8-inch AMOLED, 120Hz"
+    },
+    "hotDeals": false,
+    "seller": {
+      "id": "63a2345678b89c8d90e23462",
+      "name": "GadgetDeals",
+      "contactEmail": "support@gadgetdeals.com"
+    },
+    "createdAt": "2024-12-17T14:00:00.000Z",
+    "updatedAt": "2024-12-21T15:00:00.000Z"
+  },
+  {
+    "id": "63a2345678b89c8d90e23463",
+    "name": "Samsung Galaxy A54",
+    "description": "The Samsung Galaxy A54 delivers powerful performance with a 50MP camera and a stunning 6.4-inch AMOLED display.",
+    "price": 449.99,
+    "category": "Smartphones",
+    "brand": "Samsung",
+    "stock": 60,
+    "rating": 4.5,
+    "reviewsCount": 150,
+    "images": ["https://i.postimg.cc/Wbr2z0R7/Samsung-Galaxy-A54-5-G.png"],
+    "specifications": {
+      "processor": "Exynos 1380",
+      "ram": "8GB",
+      "storage": "128GB",
+      "battery": "5000mAh",
+      "camera": "50MP + 12MP + 5MP",
+      "display": "6.4-inch AMOLED, 120Hz"
+    },
+    "hotDeals": false,
+    "seller": {
+      "id": "63a2345678b89c8d90e23464",
+      "name": "GalaxyTech Store",
+      "contactEmail": "contact@galaxytech.com"
+    },
+    "createdAt": "2024-12-16T13:00:00.000Z",
+    "updatedAt": "2024-12-21T15:00:00.000Z"
+  },
+  {
+    "id": "63a2345678b89c8d90e23465",
+    "name": "Samsung Galaxy A14 5G",
+    "description": "The Samsung Galaxy A14 5G features a 6.6-inch display, triple cameras, and excellent 5G connectivity.",
+    "price": 249.99,
+    "category": "Smartphones",
+    "brand": "Samsung",
+    "stock": 100,
+    "rating": 4.3,
+    "reviewsCount": 80,
+    "images": ["https://i.postimg.cc/tRsR0L2w/SAMSUNG-Galaxy-A14-5-G.png"],
+    "specifications": {
+      "processor": "Dimensity 700",
+      "ram": "4GB",
+      "storage": "64GB",
+      "battery": "5000mAh",
+      "camera": "50MP + 2MP + 2MP",
+      "display": "6.6-inch PLS LCD, 90Hz"
+    },
+    "hotDeals": false,
+    "seller": {
+      "id": "63a2345678b89c8d90e23466",
+      "name": "BudgetPhones",
+      "contactEmail": "sales@budgetphones.com"
+    },
+    "createdAt": "2024-12-15T12:00:00.000Z",
+    "updatedAt": "2024-12-21T15:00:00.000Z"
+  },
+  {
+    "id": "63a2345678b89c8d90e23467",
+    "name": "Samsung Galaxy M14",
+    "description": "The Samsung Galaxy M14 delivers impressive battery life and performance with a 6000mAh battery and 5G support.",
+    "price": 199.99,
+    "category": "Smartphones",
+    "brand": "Samsung",
+    "stock": 120,
+    "rating": 4.2,
+    "reviewsCount": 60,
+    "images": [
+      "https://i.postimg.cc/0QH4dXSJ/Galaxy-M14-4-G-Arctic-Blue-3233.png"
+    ],
+    "specifications": {
+      "processor": "Exynos 1330",
+      "ram": "6GB",
+      "storage": "128GB",
+      "battery": "6000mAh",
+      "camera": "50MP + 2MP + 2MP",
+      "display": "6.6-inch PLS LCD, 90Hz"
+    },
+    "hotDeals": false,
+    "seller": {
+      "id": "63a2345678b89c8d90e23468",
+      "name": "MegaStore",
+      "contactEmail": "info@megastore.com"
+    },
+    "createdAt": "2024-12-14T11:00:00.000Z",
+    "updatedAt": "2024-12-21T15:00:00.000Z"
+  },
+  {
+    "id": "63a2345678b89c8d90e23469",
+    "name": "Samsung Galaxy A04s",
+    "description": "The Samsung Galaxy A04s offers excellent value with a 6.5-inch HD+ display and a long-lasting 5000mAh battery.",
+    "price": 149.99,
+    "category": "Smartphones",
+    "brand": "Samsung",
+    "stock": 200,
+    "rating": 4.0,
+    "reviewsCount": 50,
+    "images": ["https://i.postimg.cc/Sxfk7qx2/Samsung-Galaxy-A04.png"],
+    "specifications": {
+      "processor": "Exynos 850",
+      "ram": "3GB",
+      "storage": "32GB",
+      "battery": "5000mAh",
+      "camera": "50MP + 2MP + 2MP",
+      "display": "6.5-inch PLS LCD, 90Hz"
+    },
+    "hotDeals": true,
+    "seller": {
+      "id": "63a2345678b89c8d90e23470",
+      "name": "ValueMart",
+      "contactEmail": "support@valuemart.com"
+    },
+    "createdAt": "2024-12-13T10:00:00.000Z",
+    "updatedAt": "2024-12-21T15:00:00.000Z"
+  },
+  {
+    "id": "63a2345678b89c8d90e23471",
+    "name": "Samsung Galaxy XCover 6 Pro",
+    "description": "The Samsung Galaxy XCover 6 Pro is built tough with military-grade durability and water resistance.",
+    "price": 599.99,
+    "category": "Smartphones",
+    "brand": "Samsung",
+    "stock": 25,
+    "rating": 4.3,
+    "reviewsCount": 40,
+    "images": ["https://i.postimg.cc/DwT7Xmn3/Samsung-Galaxy-Xcover-6-Pro.png"],
+    "specifications": {
+      "processor": "Snapdragon 778G",
+      "ram": "6GB",
+      "storage": "128GB",
+      "battery": "4050mAh",
+      "camera": "50MP + 8MP",
+      "display": "6.6-inch PLS LCD, 120Hz"
+    },
+    "hotDeals": false,
+    "seller": {
+      "id": "63a2345678b89c8d90e23472",
+      "name": "RuggedTech",
+      "contactEmail": "contact@ruggedtech.com"
+    },
+    "createdAt": "2024-12-12T09:00:00.000Z",
+    "updatedAt": "2024-12-21T15:00:00.000Z"
+  },
+  {
+    "id": "63a2345678b89c8d90e23473",
+    "name": "Samsung Galaxy S21 FE 5G",
+    "description": "The Samsung Galaxy S21 FE 5G is a fan-favorite with a 6.4-inch AMOLED display, triple cameras, and Snapdragon 888 performance.",
+    "price": 699.99,
+    "category": "Smartphones",
+    "brand": "Samsung",
+    "stock": 35,
+    "rating": 4.5,
+    "reviewsCount": 175,
+    "images": ["https://i.postimg.cc/VNs1KTJ7/samsung-galaxy-s21-fe-5g.png"],
+    "specifications": {
+      "processor": "Snapdragon 888",
+      "ram": "8GB",
+      "storage": "128GB",
+      "battery": "4500mAh",
+      "camera": "12MP + 12MP + 8MP",
+      "display": "6.4-inch AMOLED, 120Hz"
+    },
+    "hotDeals": true,
+    "seller": {
+      "id": "63a2345678b89c8d90e23474",
+      "name": "TechWarehouse",
+      "contactEmail": "sales@techwarehouse.com"
+    },
+    "createdAt": "2024-12-11T08:00:00.000Z",
+    "updatedAt": "2024-12-21T15:00:00.000Z"
+  },
+
+  {
+    "id": "64a1234567b89c8d90e00001",
+    "name": "iPhone 15 Pro Max",
+    "description": "The iPhone 15 Pro Max features the A17 Bionic chip, titanium design, and an exceptional 48MP main camera.",
+    "price": 1299.99,
+    "category": "Smartphones",
+    "brand": "Apple",
+    "stock": 30,
+    "rating": 4.9,
+    "reviewsCount": 456,
+    "images": ["https://i.postimg.cc/KYddTHhp/i-Phone-15-Pro-max-png.png"],
+    "specifications": {
+      "processor": "A17 Bionic",
+      "ram": "8GB",
+      "storage": "1TB",
+      "battery": "4350mAh",
+      "camera": "48MP + 12MP + 12MP",
+      "display": "6.7-inch Super Retina XDR, 120Hz"
+    },
+    "hotDeals": false,
+    "seller": {
+      "id": "63a2345678b89c8d90e23457",
+      "name": "Apple Store",
+      "contactEmail": "seller@applestore.com"
+    },
+    "createdAt": "2024-12-20T11:00:00.000Z",
+    "updatedAt": "2024-12-21T16:00:00.000Z"
+  },
+  {
+    "id": "64a1234567b89c8d90e00002",
+    "name": "iPhone 15 Pro",
+    "description": "The iPhone 15 Pro combines the power of A17 Bionic chip with a lightweight titanium body and advanced camera technology.",
+    "price": 1199.99,
+    "category": "Smartphones",
+    "brand": "Apple",
+    "stock": 40,
+    "rating": 4.8,
+    "reviewsCount": 342,
+    "images": ["https://i.postimg.cc/xT5DZ5Lq/iphone-15-pro-gray.png"],
+    "specifications": {
+      "processor": "A17 Bionic",
+      "ram": "8GB",
+      "storage": "512GB",
+      "battery": "4200mAh",
+      "camera": "48MP + 12MP + 12MP",
+      "display": "6.1-inch Super Retina XDR, 120Hz"
+    },
+    "hotDeals": false,
+    "seller": {
+      "id": "63a2345678b89c8d90e23457",
+      "name": "Apple Store",
+      "contactEmail": "seller@applestore.com"
+    },
+    "createdAt": "2024-12-20T11:30:00.000Z",
+    "updatedAt": "2024-12-21T16:30:00.000Z"
+  },
+  {
+    "id": "64a1234567b89c8d90e00003",
+    "name": "iPhone 15",
+    "description": "The iPhone 15 features the A16 Bionic chip, dynamic island, and a dual-camera system for excellent photography.",
+    "price": 899.99,
+    "category": "Smartphones",
+    "brand": "Apple",
+    "stock": 50,
+    "rating": 4.7,
+    "reviewsCount": 289,
+    "images": ["https://i.postimg.cc/KvZCtTCb/i-Phone-15-Rosa.png"],
+    "specifications": {
+      "processor": "A16 Bionic",
+      "ram": "6GB",
+      "storage": "256GB",
+      "battery": "3800mAh",
+      "camera": "48MP + 12MP",
+      "display": "6.1-inch Super Retina XDR"
+    },
+    "hotDeals": false,
+    "seller": {
+      "id": "63a2345678b89c8d90e23457",
+      "name": "Apple Store",
+      "contactEmail": "seller@applestore.com"
+    },
+    "createdAt": "2024-12-20T12:00:00.000Z",
+    "updatedAt": "2024-12-21T17:00:00.000Z"
+  },
+  {
+    "id": "64a1234567b89c8d90e00004",
+    "name": "iPhone 14 Pro Max",
+    "description": "The iPhone 14 Pro Max delivers an advanced camera system, dynamic island, and the powerful A16 Bionic chip.",
+    "price": 1099.99,
+    "category": "Smartphones",
+    "brand": "Apple",
+    "stock": 60,
+    "rating": 4.8,
+    "reviewsCount": 421,
+    "images": ["https://i.postimg.cc/DwYVvzjT/i-Phone-14-Pro-Max.png"],
+    "specifications": {
+      "processor": "A16 Bionic",
+      "ram": "6GB",
+      "storage": "512GB",
+      "battery": "4500mAh",
+      "camera": "48MP + 12MP + 12MP",
+      "display": "6.7-inch Super Retina XDR, 120Hz"
+    },
+    "hotDeals": true,
+    "seller": {
+      "id": "63a2345678b89c8d90e23457",
+      "name": "Apple Store",
+      "contactEmail": "seller@applestore.com"
+    },
+    "createdAt": "2024-12-20T12:30:00.000Z",
+    "updatedAt": "2024-12-21T17:30:00.000Z"
+  },
+  {
+    "id": "64a1234567b89c8d90e00005",
+    "name": "iPhone 14 Pro",
+    "description": "Experience top-tier performance with the iPhone 14 Pro's A16 Bionic chip and advanced triple-camera setup.",
+    "price": 999.99,
+    "category": "Smartphones",
+    "brand": "Apple",
+    "stock": 45,
+    "rating": 4.7,
+    "reviewsCount": 302,
+    "images": ["https://i.postimg.cc/BbCydZLR/iphone-14-pro.png"],
+    "specifications": {
+      "processor": "A16 Bionic",
+      "ram": "6GB",
+      "storage": "256GB",
+      "battery": "4300mAh",
+      "camera": "48MP + 12MP + 12MP",
+      "display": "6.1-inch Super Retina XDR, 120Hz"
+    },
+    "hotDeals": false,
+    "seller": {
+      "id": "63a2345678b89c8d90e23457",
+      "name": "Apple Store",
+      "contactEmail": "seller@applestore.com"
+    },
+    "createdAt": "2024-12-20T13:00:00.000Z",
+    "updatedAt": "2024-12-21T18:00:00.000Z"
+  },
+  {
+    "id": "64a1234567b89c8d90e00006",
+    "name": "iPhone 14",
+    "description": "The iPhone 14 offers a stunning design, A15 Bionic chip, and advanced dual-camera system for remarkable photography.",
+    "price": 799.99,
+    "category": "Smartphones",
+    "brand": "Apple",
+    "stock": 70,
+    "rating": 4.6,
+    "reviewsCount": 210,
+    "images": ["https://i.postimg.cc/Z5qtzNLH/iphone-14.png"],
+    "specifications": {
+      "processor": "A15 Bionic",
+      "ram": "6GB",
+      "storage": "256GB",
+      "battery": "3700mAh",
+      "camera": "12MP + 12MP",
+      "display": "6.1-inch Super Retina XDR"
+    },
+    "hotDeals": false,
+    "seller": {
+      "id": "63a2345678b89c8d90e23457",
+      "name": "Apple Store",
+      "contactEmail": "seller@applestore.com"
+    },
+    "createdAt": "2024-12-20T13:30:00.000Z",
+    "updatedAt": "2024-12-21T18:30:00.000Z"
+  },
+  {
+    "id": "64a1234567b89c8d90e00007",
+    "name": "iPhone 13 Pro Max",
+    "description": "The iPhone 13 Pro Max features the A15 Bionic chip, advanced ProMotion display, and an exceptional triple-camera system.",
+    "price": 1099.99,
+    "category": "Smartphones",
+    "brand": "Apple",
+    "stock": 35,
+    "rating": 4.7,
+    "reviewsCount": 325,
+    "images": ["https://i.postimg.cc/gjpQSLJv/iphone-13promax.png"],
+    "specifications": {
+      "processor": "A15 Bionic",
+      "ram": "6GB",
+      "storage": "512GB",
+      "battery": "4350mAh",
+      "camera": "12MP + 12MP + 12MP",
+      "display": "6.7-inch Super Retina XDR, 120Hz"
+    },
+    "hotDeals": false,
+    "seller": {
+      "id": "63a2345678b89c8d90e23457",
+      "name": "Apple Store",
+      "contactEmail": "seller@applestore.com"
+    },
+    "createdAt": "2024-12-20T14:00:00.000Z",
+    "updatedAt": "2024-12-21T19:00:00.000Z"
+  },
+  {
+    "id": "64a1234567b89c8d90e00008",
+    "name": "iPhone 13 Pro",
+    "description": "The iPhone 13 Pro offers an A15 Bionic chip, durable Ceramic Shield, and a triple-camera system for professionals.",
+    "price": 999.99,
+    "category": "Smartphones",
+    "brand": "Apple",
+    "stock": 50,
+    "rating": 4.6,
+    "reviewsCount": 289,
+    "images": ["https://i.postimg.cc/zfLsV16R/i-Phone-13-Pro.png"],
+    "specifications": {
+      "processor": "A15 Bionic",
+      "ram": "6GB",
+      "storage": "256GB",
+      "battery": "4200mAh",
+      "camera": "12MP + 12MP + 12MP",
+      "display": "6.1-inch Super Retina XDR, 120Hz"
+    },
+    "hotDeals": false,
+    "seller": {
+      "id": "63a2345678b89c8d90e23457",
+      "name": "Apple Store",
+      "contactEmail": "seller@applestore.com"
+    },
+    "createdAt": "2024-12-20T14:30:00.000Z",
+    "updatedAt": "2024-12-21T19:30:00.000Z"
+  },
+  {
+    "id": "64a1234567b89c8d90e00009",
+    "name": "iPhone 13",
+    "description": "The iPhone 13 offers incredible performance with the A15 Bionic chip and an advanced dual-camera system.",
+    "price": 699.99,
+    "category": "Smartphones",
+    "brand": "Apple",
+    "stock": 60,
+    "rating": 4.5,
+    "reviewsCount": 220,
+    "images": ["https://i.postimg.cc/wvLnQQ6q/iphone-13.png"],
+    "specifications": {
+      "processor": "A15 Bionic",
+      "ram": "6GB",
+      "storage": "128GB",
+      "battery": "3600mAh",
+      "camera": "12MP + 12MP",
+      "display": "6.1-inch Super Retina XDR"
+    },
+    "hotDeals": false,
+    "seller": {
+      "id": "63a2345678b89c8d90e23457",
+      "name": "Apple Store",
+      "contactEmail": "seller@applestore.com"
+    },
+    "createdAt": "2024-12-20T15:00:00.000Z",
+    "updatedAt": "2024-12-21T20:00:00.000Z"
+  },
+  {
+    "id": "64a1234567b89c8d90e00010",
+    "name": "iPhone SE (3rd Gen)",
+    "description": "The iPhone SE (3rd Gen) features the powerful A15 Bionic chip in a compact and affordable design.",
+    "price": 429.99,
+    "category": "Smartphones",
+    "brand": "Apple",
+    "stock": 80,
+    "rating": 4.4,
+    "reviewsCount": 150,
+    "images": ["https://i.postimg.cc/jq6GWcgv/iphone-se.png"],
+    "specifications": {
+      "processor": "A15 Bionic",
+      "ram": "4GB",
+      "storage": "128GB",
+      "battery": "3000mAh",
+      "camera": "12MP",
+      "display": "4.7-inch Retina HD"
+    },
+    "hotDeals": false,
+    "seller": {
+      "id": "63a2345678b89c8d90e23457",
+      "name": "Apple Store",
+      "contactEmail": "seller@applestore.com"
+    },
+    "createdAt": "2024-12-20T15:30:00.000Z",
+    "updatedAt": "2024-12-21T20:30:00.000Z"
+  },
+
+  {
+    "id": "65a1234567b89c8d90e00001",
+    "name": "Google Pixel 8 Pro",
+    "description": "The Google Pixel 8 Pro features the Tensor G3 chip, a stunning 6.7-inch OLED display, and advanced AI-powered camera technology.",
+    "price": 999.99,
+    "category": "Smartphones",
+    "brand": "Google",
+    "stock": 40,
+    "rating": 4.8,
+    "reviewsCount": 312,
+    "images": ["https://i.postimg.cc/bwXGrzsK/Google-Pixel-8-Pro.png"],
+    "specifications": {
+      "processor": "Tensor G3",
+      "ram": "12GB",
+      "storage": "512GB",
+      "battery": "5000mAh",
+      "camera": "50MP + 48MP + 12MP",
+      "display": "6.7-inch OLED, 120Hz"
+    },
+    "hotDeals": true,
+    "seller": {
+      "id": "65a2345678b89c8d90e23457",
+      "name": "Google Store",
+      "contactEmail": "seller@googlestore.com"
+    },
+    "createdAt": "2024-12-20T16:00:00.000Z",
+    "updatedAt": "2024-12-21T21:00:00.000Z"
+  },
+  {
+    "id": "65a1234567b89c8d90e00002",
+    "name": "Google Pixel 8",
+    "description": "The Google Pixel 8 offers the power of the Tensor G3 chip, an immersive display, and Google's best AI features.",
+    "price": 799.99,
+    "category": "Smartphones",
+    "brand": "Google",
+    "stock": 50,
+    "rating": 4.7,
+    "reviewsCount": 250,
+    "images": ["https://i.postimg.cc/J72Hw3m7/Google-Pixel-8.png"],
+    "specifications": {
+      "processor": "Tensor G3",
+      "ram": "8GB",
+      "storage": "256GB",
+      "battery": "4500mAh",
+      "camera": "50MP + 12MP",
+      "display": "6.2-inch OLED, 120Hz"
+    },
+    "hotDeals": true,
+    "seller": {
+      "id": "65a2345678b89c8d90e23457",
+      "name": "Google Store",
+      "contactEmail": "seller@googlestore.com"
+    },
+    "createdAt": "2024-12-20T16:30:00.000Z",
+    "updatedAt": "2024-12-21T21:30:00.000Z"
+  },
+  {
+    "id": "65a1234567b89c8d90e00003",
+    "name": "Google Pixel 7 Pro",
+    "description": "The Google Pixel 7 Pro features the Tensor G2 chip, stunning 6.7-inch OLED display, and advanced telephoto capabilities.",
+    "price": 899.99,
+    "category": "Smartphones",
+    "brand": "Google",
+    "stock": 35,
+    "rating": 4.6,
+    "reviewsCount": 210,
+    "images": ["https://i.postimg.cc/TP6W7Rxr/Google-Pixel-7-Pro.png"],
+    "specifications": {
+      "processor": "Tensor G2",
+      "ram": "12GB",
+      "storage": "512GB",
+      "battery": "5000mAh",
+      "camera": "50MP + 48MP + 12MP",
+      "display": "6.7-inch OLED, 120Hz"
+    },
+    "hotDeals": true,
+    "seller": {
+      "id": "65a2345678b89c8d90e23457",
+      "name": "Google Store",
+      "contactEmail": "seller@googlestore.com"
+    },
+    "createdAt": "2024-12-20T17:00:00.000Z",
+    "updatedAt": "2024-12-21T22:00:00.000Z"
+  },
+  {
+    "id": "65a1234567b89c8d90e00004",
+    "name": "Google Pixel 7",
+    "description": "The Google Pixel 7 delivers exceptional performance with the Tensor G2 chip and a dual-camera system for stunning photos.",
+    "price": 599.99,
+    "category": "Smartphones",
+    "brand": "Google",
+    "stock": 55,
+    "rating": 4.5,
+    "reviewsCount": 180,
+    "images": ["https://i.postimg.cc/8zh7rqvs/Google-Pixel-7-pro.png"],
+    "specifications": {
+      "processor": "Tensor G2",
+      "ram": "8GB",
+      "storage": "256GB",
+      "battery": "4350mAh",
+      "camera": "50MP + 12MP",
+      "display": "6.3-inch OLED, 90Hz"
+    },
+    "hotDeals": true,
+    "seller": {
+      "id": "65a2345678b89c8d90e23457",
+      "name": "Google Store",
+      "contactEmail": "seller@googlestore.com"
+    },
+    "createdAt": "2024-12-20T17:30:00.000Z",
+    "updatedAt": "2024-12-21T22:30:00.000Z"
+  },
+  {
+    "id": "65a1234567b89c8d90e00005",
+    "name": "Google Pixel 6a",
+    "description": "The Google Pixel 6a offers incredible value with the Tensor chip and compact design for everyday use.",
+    "price": 349.99,
+    "category": "Smartphones",
+    "brand": "Google",
+    "stock": 70,
+    "rating": 4.4,
+    "reviewsCount": 150,
+    "images": ["https://i.postimg.cc/5tSQDZ9D/google-pixel-phone-6a.png"],
+    "specifications": {
+      "processor": "Tensor",
+      "ram": "6GB",
+      "storage": "128GB",
+      "battery": "4300mAh",
+      "camera": "12MP + 12MP",
+      "display": "6.1-inch OLED, 60Hz"
+    },
+    "hotDeals": true,
+    "seller": {
+      "id": "65a2345678b89c8d90e23457",
+      "name": "Google Store",
+      "contactEmail": "seller@googlestore.com"
+    },
+    "createdAt": "2024-12-20T18:00:00.000Z",
+    "updatedAt": "2024-12-21T23:00:00.000Z"
+  },
+
+  {
+    "id": "65a1234567b89c8d90e00006",
+    "name": "Google Pixel 6 Pro",
+    "description": "The Google Pixel 6 Pro features the powerful Tensor chip, a large OLED display, and a triple-camera system for extraordinary photos.",
+    "price": 899.99,
+    "category": "Smartphones",
+    "brand": "Google",
+    "stock": 45,
+    "rating": 4.7,
+    "reviewsCount": 280,
+    "images": ["https://i.postimg.cc/RhyWcmGJ/Google-Pixel-6-Pro.png"],
+    "specifications": {
+      "processor": "Tensor",
+      "ram": "12GB",
+      "storage": "512GB",
+      "battery": "5000mAh",
+      "camera": "50MP + 48MP + 12MP",
+      "display": "6.7-inch OLED, 120Hz"
+    },
+    "hotDeals": true,
+    "seller": {
+      "id": "65a2345678b89c8d90e23457",
+      "name": "Google Store",
+      "contactEmail": "seller@googlestore.com"
+    },
+    "createdAt": "2024-12-20T18:30:00.000Z",
+    "updatedAt": "2024-12-21T23:30:00.000Z"
+  },
+  {
+    "id": "65a1234567b89c8d90e00007",
+    "name": "Google Pixel 6",
+    "description": "The Google Pixel 6 offers a balanced mix of performance, camera capabilities, and AI-driven features powered by the Tensor chip.",
+    "price": 599.99,
+    "category": "Smartphones",
+    "brand": "Google",
+    "stock": 50,
+    "rating": 4.5,
+    "reviewsCount": 200,
+    "images": ["https://i.postimg.cc/wvWyjLmV/Google-Pixel-6.png"],
+    "specifications": {
+      "processor": "Tensor",
+      "ram": "8GB",
+      "storage": "256GB",
+      "battery": "4600mAh",
+      "camera": "50MP + 12MP",
+      "display": "6.4-inch OLED, 90Hz"
+    },
+    "hotDeals": true,
+    "seller": {
+      "id": "65a2345678b89c8d90e23457",
+      "name": "Google Store",
+      "contactEmail": "seller@googlestore.com"
+    },
+    "createdAt": "2024-12-20T19:00:00.000Z",
+    "updatedAt": "2024-12-21T23:45:00.000Z"
+  },
+  {
+    "id": "65a1234567b89c8d90e00008",
+    "name": "Google Pixel 5a",
+    "description": "The Google Pixel 5a delivers an exceptional camera experience, compact design, and a reliable battery life.",
+    "price": 449.99,
+    "category": "Smartphones",
+    "brand": "Google",
+    "stock": 60,
+    "rating": 4.4,
+    "reviewsCount": 175,
+    "images": ["https://i.postimg.cc/1XfgnX0Z/Google-Pixel-5-A.png"],
+    "specifications": {
+      "processor": "Snapdragon 765G",
+      "ram": "6GB",
+      "storage": "128GB",
+      "battery": "4680mAh",
+      "camera": "12.2MP + 16MP",
+      "display": "6.3-inch OLED, 60Hz"
+    },
+    "hotDeals": true,
+    "seller": {
+      "id": "65a2345678b89c8d90e23457",
+      "name": "Google Store",
+      "contactEmail": "seller@googlestore.com"
+    },
+    "createdAt": "2024-12-20T19:30:00.000Z",
+    "updatedAt": "2024-12-22T00:00:00.000Z"
+  },
+  {
+    "id": "65a1234567b89c8d90e00009",
+    "name": "Google Pixel 5",
+    "description": "The Google Pixel 5 offers compact elegance, excellent cameras, and an adaptive battery for extended use.",
+    "price": 699.99,
+    "category": "Smartphones",
+    "brand": "Google",
+    "stock": 30,
+    "rating": 4.3,
+    "reviewsCount": 160,
+    "images": ["https://i.postimg.cc/RVJ6v3V7/Google-Pixel-5.png"],
+    "specifications": {
+      "processor": "Snapdragon 765G",
+      "ram": "8GB",
+      "storage": "128GB",
+      "battery": "4080mAh",
+      "camera": "12.2MP + 16MP",
+      "display": "6.0-inch OLED, 90Hz"
+    },
+    "hotDeals": true,
+    "seller": {
+      "id": "65a2345678b89c8d90e23457",
+      "name": "Google Store",
+      "contactEmail": "seller@googlestore.com"
+    },
+    "createdAt": "2024-12-20T20:00:00.000Z",
+    "updatedAt": "2024-12-22T00:15:00.000Z"
+  },
+  {
+    "id": "65a1234567b89c8d90e00010",
+    "name": "Google Pixel 4a",
+    "description": "The Google Pixel 4a offers an affordable entry point into Google's Pixel experience with excellent camera quality.",
+    "price": 349.99,
+    "category": "Smartphones",
+    "brand": "Google",
+    "stock": 75,
+    "rating": 4.2,
+    "reviewsCount": 140,
+    "images": ["https://i.postimg.cc/Tw25xCp1/Google-Pixel-4a.png"],
+    "specifications": {
+      "processor": "Snapdragon 730G",
+      "ram": "6GB",
+      "storage": "128GB",
+      "battery": "3140mAh",
+      "camera": "12.2MP",
+      "display": "5.8-inch OLED, 60Hz"
+    },
+    "hotDeals": true,
+    "seller": {
+      "id": "65a2345678b89c8d90e23457",
+      "name": "Google Store",
+      "contactEmail": "seller@googlestore.com"
+    },
+    "createdAt": "2024-12-20T20:30:00.000Z",
+    "updatedAt": "2024-12-22T00:30:00.000Z"
+  }
+]

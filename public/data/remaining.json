@@ -1,0 +1,2115 @@
+[
+  {
+    "id": "63b1234567b89c8d90f12345",
+    "name": "Huawei Mate 60 Pro",
+    "description": "The Huawei Mate 60 Pro features a powerful Kirin 9000S chip, a 6.82-inch OLED display, and a revolutionary triple camera setup.",
+    "price": 1099.99,
+    "category": "Smartphones",
+    "brand": "Huawei",
+    "stock": 40,
+    "rating": 4.7,
+    "reviewsCount": 80,
+    "images": [
+      "https://example.com/images/mate60pro-front.jpg",
+      "https://example.com/images/mate60pro-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Kirin 9000S",
+      "ram": "12GB",
+      "storage": "512GB",
+      "battery": "5000mAh",
+      "camera": "50MP + 12MP + 48MP",
+      "display": "6.82-inch OLED, 120Hz"
+    },
+    "seller": {
+      "id": "63b2345678b89c8d90f23456",
+      "name": "HuaweiStore",
+      "contactEmail": "support@huaweistore.com"
+    },
+    "createdAt": "2024-12-20T10:30:00.000Z",
+    "updatedAt": "2024-12-21T15:00:00.000Z"
+  },
+  {
+    "id": "63b2345678b89c8d90f23457",
+    "name": "Huawei P60 Pro",
+    "description": "The Huawei P60 Pro delivers a premium experience with its 48MP telephoto camera, Snapdragon 8+ Gen 1 chip, and stunning design.",
+    "price": 899.99,
+    "category": "Smartphones",
+    "brand": "Huawei",
+    "stock": 60,
+    "rating": 4.8,
+    "reviewsCount": 100,
+    "images": [
+      "https://example.com/images/p60pro-front.jpg",
+      "https://example.com/images/p60pro-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 8+ Gen 1",
+      "ram": "8GB",
+      "storage": "256GB",
+      "battery": "4815mAh",
+      "camera": "48MP + 13MP + 48MP",
+      "display": "6.67-inch LTPO OLED, 120Hz"
+    },
+    "seller": {
+      "id": "63b2345678b89c8d90f23458",
+      "name": "PremiumPhones",
+      "contactEmail": "sales@premiumphones.com"
+    },
+    "createdAt": "2024-12-19T15:00:00.000Z",
+    "updatedAt": "2024-12-21T15:00:00.000Z"
+  },
+  {
+    "id": "63b2345678b89c8d90f23459",
+    "name": "Huawei Nova 11 Ultra",
+    "description": "The Huawei Nova 11 Ultra combines stylish design with performance, featuring a 6.78-inch OLED display and a 60MP selfie camera.",
+    "price": 649.99,
+    "category": "Smartphones",
+    "brand": "Huawei",
+    "stock": 75,
+    "rating": 4.6,
+    "reviewsCount": 90,
+    "images": [
+      "https://example.com/images/nova11ultra-front.jpg",
+      "https://example.com/images/nova11ultra-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 778G",
+      "ram": "8GB",
+      "storage": "256GB",
+      "battery": "4500mAh",
+      "camera": "50MP + 8MP",
+      "display": "6.78-inch OLED, 120Hz"
+    },
+    "seller": {
+      "id": "63b2345678b89c8d90f23460",
+      "name": "MobileZone",
+      "contactEmail": "info@mobilezone.com"
+    },
+    "createdAt": "2024-12-18T12:00:00.000Z",
+    "updatedAt": "2024-12-21T15:00:00.000Z"
+  },
+  {
+    "id": "63b2345678b89c8d90f23461",
+    "name": "Huawei Y91",
+    "description": "The Huawei Y91 is a budget-friendly option with a 6.95-inch LCD display and a massive 7000mAh battery for all-day use.",
+    "price": 299.99,
+    "category": "Smartphones",
+    "brand": "Huawei",
+    "stock": 120,
+    "rating": 4.4,
+    "reviewsCount": 50,
+    "images": [
+      "https://example.com/images/y91-front.jpg",
+      "https://example.com/images/y91-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Helio G88",
+      "ram": "6GB",
+      "storage": "128GB",
+      "battery": "7000mAh",
+      "camera": "50MP + 2MP",
+      "display": "6.95-inch LCD, 90Hz"
+    },
+    "seller": {
+      "id": "63b2345678b89c8d90f23462",
+      "name": "TechDeals",
+      "contactEmail": "contact@techdeals.com"
+    },
+    "createdAt": "2024-12-17T14:00:00.000Z",
+    "updatedAt": "2024-12-21T15:00:00.000Z"
+  },
+  {
+    "id": "63b2345678b89c8d90f23463",
+    "name": "Huawei Mate X5",
+    "description": "The Huawei Mate X5 is a cutting-edge foldable phone with a 7.85-inch OLED screen and a premium build.",
+    "price": 1999.99,
+    "category": "Smartphones",
+    "brand": "Huawei",
+    "stock": 20,
+    "rating": 4.9,
+    "reviewsCount": 35,
+    "images": [
+      "https://example.com/images/matex5-front.jpg",
+      "https://example.com/images/matex5-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Kirin 9000S",
+      "ram": "12GB",
+      "storage": "512GB",
+      "battery": "5000mAh",
+      "camera": "50MP + 13MP + 12MP",
+      "display": "7.85-inch OLED, 120Hz"
+    },
+    "seller": {
+      "id": "63b2345678b89c8d90f23464",
+      "name": "FoldableTech",
+      "contactEmail": "support@foldabletech.com"
+    },
+    "createdAt": "2024-12-16T13:00:00.000Z",
+    "updatedAt": "2024-12-21T15:00:00.000Z"
+  },
+
+  {
+    "id": "63b2345678b89c8d90f23465",
+    "name": "Huawei P50 Pocket",
+    "description": "The Huawei P50 Pocket offers a stunning foldable design, 6.9-inch AMOLED display, and advanced triple-camera setup for creative photography.",
+    "price": 1499.99,
+    "category": "Smartphones",
+    "brand": "Huawei",
+    "stock": 30,
+    "rating": 4.7,
+    "reviewsCount": 95,
+    "images": [
+      "https://example.com/images/p50pocket-front.jpg",
+      "https://example.com/images/p50pocket-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 888 4G",
+      "ram": "8GB",
+      "storage": "256GB",
+      "battery": "4000mAh",
+      "camera": "40MP + 13MP + 32MP",
+      "display": "6.9-inch AMOLED, 120Hz"
+    },
+    "seller": {
+      "id": "63b2345678b89c8d90f23466",
+      "name": "ExclusivePhones",
+      "contactEmail": "exclusive@phones.com"
+    },
+    "createdAt": "2024-12-15T12:00:00.000Z",
+    "updatedAt": "2024-12-21T15:00:00.000Z"
+  },
+  {
+    "id": "63b2345678b89c8d90f23467",
+    "name": "Huawei Nova 10 Pro",
+    "description": "The Huawei Nova 10 Pro is a mid-range favorite with a dual front-facing camera, a 6.78-inch OLED display, and fast charging support.",
+    "price": 599.99,
+    "category": "Smartphones",
+    "brand": "Huawei",
+    "stock": 85,
+    "rating": 4.5,
+    "reviewsCount": 110,
+    "images": [
+      "https://example.com/images/nova10pro-front.jpg",
+      "https://example.com/images/nova10pro-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 778G",
+      "ram": "8GB",
+      "storage": "256GB",
+      "battery": "4500mAh",
+      "camera": "50MP + 8MP + 2MP",
+      "display": "6.78-inch OLED, 120Hz"
+    },
+    "seller": {
+      "id": "63b2345678b89c8d90f23468",
+      "name": "SmartChoice Store",
+      "contactEmail": "info@smartchoice.com"
+    },
+    "createdAt": "2024-12-14T14:00:00.000Z",
+    "updatedAt": "2024-12-21T15:00:00.000Z"
+  },
+  {
+    "id": "63b2345678b89c8d90f23469",
+    "name": "Huawei Y7a",
+    "description": "The Huawei Y7a is a budget-friendly device offering a 6.67-inch Full HD+ display and 5000mAh battery for extended use.",
+    "price": 199.99,
+    "category": "Smartphones",
+    "brand": "Huawei",
+    "stock": 150,
+    "rating": 4.2,
+    "reviewsCount": 60,
+    "images": [
+      "https://example.com/images/y7a-front.jpg",
+      "https://example.com/images/y7a-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Kirin 710A",
+      "ram": "4GB",
+      "storage": "128GB",
+      "battery": "5000mAh",
+      "camera": "48MP + 8MP + 2MP + 2MP",
+      "display": "6.67-inch IPS LCD, 60Hz"
+    },
+    "seller": {
+      "id": "63b2345678b89c8d90f23470",
+      "name": "BudgetPhones",
+      "contactEmail": "contact@budgetphones.com"
+    },
+    "createdAt": "2024-12-13T10:00:00.000Z",
+    "updatedAt": "2024-12-21T15:00:00.000Z"
+  },
+  {
+    "id": "63b2345678b89c8d90f23471",
+    "name": "Huawei MatePad 11",
+    "description": "The Huawei MatePad 11 is a powerful tablet with a 120Hz refresh rate display, perfect for work and entertainment.",
+    "price": 499.99,
+    "category": "Tablets",
+    "brand": "Huawei",
+    "stock": 70,
+    "rating": 4.6,
+    "reviewsCount": 75,
+    "images": [
+      "https://example.com/images/matepad11-front.jpg",
+      "https://example.com/images/matepad11-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 865",
+      "ram": "6GB",
+      "storage": "128GB",
+      "battery": "7250mAh",
+      "camera": "13MP + 8MP",
+      "display": "10.95-inch IPS LCD, 120Hz"
+    },
+    "seller": {
+      "id": "63b2345678b89c8d90f23472",
+      "name": "TechWorld Tablets",
+      "contactEmail": "tablets@techworld.com"
+    },
+    "createdAt": "2024-12-12T11:00:00.000Z",
+    "updatedAt": "2024-12-21T15:00:00.000Z"
+  },
+  {
+    "id": "63b2345678b89c8d90f23473",
+    "name": "Huawei Y9 Prime 2023",
+    "description": "The Huawei Y9 Prime 2023 combines a 6.59-inch Ultra FullView display with a pop-up selfie camera for an immersive experience.",
+    "price": 249.99,
+    "category": "Smartphones",
+    "brand": "Huawei",
+    "stock": 90,
+    "rating": 4.3,
+    "reviewsCount": 85,
+    "images": [
+      "https://example.com/images/y9prime-front.jpg",
+      "https://example.com/images/y9prime-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Kirin 710F",
+      "ram": "4GB",
+      "storage": "128GB",
+      "battery": "4000mAh",
+      "camera": "16MP + 8MP + 2MP",
+      "display": "6.59-inch IPS LCD, 60Hz"
+    },
+    "seller": {
+      "id": "63b2345678b89c8d90f23474",
+      "name": "ReliableTech",
+      "contactEmail": "reliable@techstore.com"
+    },
+    "createdAt": "2024-12-10T14:00:00.000Z",
+    "updatedAt": "2024-12-21T15:00:00.000Z"
+  },
+
+  {
+    "id": "67a1234567b89c8d90e10001",
+    "name": "Motorola Edge 40 Pro",
+    "description": "The Motorola Edge 40 Pro combines a powerful Snapdragon 8 Gen 2 processor with a 165Hz pOLED display and a triple-camera system.",
+    "price": 799.99,
+    "category": "Smartphones",
+    "brand": "Motorola",
+    "stock": 40,
+    "rating": 4.6,
+    "reviewsCount": 220,
+    "images": [
+      "https://example.com/images/edge40pro-front.jpg",
+      "https://example.com/images/edge40pro-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": "12GB",
+      "storage": "512GB",
+      "battery": "4600mAh",
+      "camera": "50MP + 50MP + 12MP",
+      "display": "6.7-inch pOLED, 165Hz"
+    },
+    "seller": {
+      "id": "67a2345678b89c8d90e34567",
+      "name": "MotoWorld Store",
+      "contactEmail": "seller@motoworld.com"
+    },
+    "createdAt": "2024-12-20T21:00:00.000Z",
+    "updatedAt": "2024-12-22T01:00:00.000Z"
+  },
+  {
+    "id": "67a1234567b89c8d90e10002",
+    "name": "Motorola Edge 30 Fusion",
+    "description": "The Motorola Edge 30 Fusion features a slim design, a Snapdragon 888+ processor, and a stunning 144Hz OLED display.",
+    "price": 699.99,
+    "category": "Smartphones",
+    "brand": "Motorola",
+    "stock": 50,
+    "rating": 4.5,
+    "reviewsCount": 180,
+    "images": [
+      "https://example.com/images/edge30fusion-front.jpg",
+      "https://example.com/images/edge30fusion-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 888+",
+      "ram": "8GB",
+      "storage": "256GB",
+      "battery": "4400mAh",
+      "camera": "50MP + 13MP + 2MP",
+      "display": "6.6-inch OLED, 144Hz"
+    },
+    "seller": {
+      "id": "67a2345678b89c8d90e34567",
+      "name": "MotoWorld Store",
+      "contactEmail": "seller@motoworld.com"
+    },
+    "createdAt": "2024-12-20T21:30:00.000Z",
+    "updatedAt": "2024-12-22T01:30:00.000Z"
+  },
+  {
+    "id": "67a1234567b89c8d90e10003",
+    "name": "Motorola Razr 40 Ultra",
+    "description": "The Motorola Razr 40 Ultra is a premium foldable phone with an AMOLED main screen and an external display for quick interactions.",
+    "price": 999.99,
+    "category": "Smartphones",
+    "brand": "Motorola",
+    "stock": 25,
+    "rating": 4.7,
+    "reviewsCount": 150,
+    "images": [
+      "https://example.com/images/razr40ultra-main.jpg",
+      "https://example.com/images/razr40ultra-folded.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 8+ Gen 1",
+      "ram": "12GB",
+      "storage": "512GB",
+      "battery": "3800mAh",
+      "camera": "12MP + 13MP",
+      "display": "6.9-inch AMOLED, 165Hz (main), 3.6-inch AMOLED (external)"
+    },
+    "seller": {
+      "id": "67a2345678b89c8d90e34567",
+      "name": "MotoWorld Store",
+      "contactEmail": "seller@motoworld.com"
+    },
+    "createdAt": "2024-12-20T22:00:00.000Z",
+    "updatedAt": "2024-12-22T02:00:00.000Z"
+  },
+  {
+    "id": "67a1234567b89c8d90e10004",
+    "name": "Motorola G73",
+    "description": "The Motorola G73 offers a 120Hz LCD display, a MediaTek Dimensity 930 chipset, and excellent battery performance at an affordable price.",
+    "price": 329.99,
+    "category": "Smartphones",
+    "brand": "Motorola",
+    "stock": 60,
+    "rating": 4.3,
+    "reviewsCount": 120,
+    "images": [
+      "https://example.com/images/g73-front.jpg",
+      "https://example.com/images/g73-back.jpg"
+    ],
+    "specifications": {
+      "processor": "MediaTek Dimensity 930",
+      "ram": "8GB",
+      "storage": "128GB",
+      "battery": "5000mAh",
+      "camera": "50MP + 8MP",
+      "display": "6.5-inch LCD, 120Hz"
+    },
+    "seller": {
+      "id": "67a2345678b89c8d90e34567",
+      "name": "MotoWorld Store",
+      "contactEmail": "seller@motoworld.com"
+    },
+    "createdAt": "2024-12-20T22:30:00.000Z",
+    "updatedAt": "2024-12-22T02:30:00.000Z"
+  },
+  {
+    "id": "67a1234567b89c8d90e10005",
+    "name": "Motorola Moto E13",
+    "description": "The Motorola Moto E13 is a budget-friendly smartphone with essential features and long battery life, perfect for everyday use.",
+    "price": 149.99,
+    "category": "Smartphones",
+    "brand": "Motorola",
+    "stock": 80,
+    "rating": 4.2,
+    "reviewsCount": 90,
+    "images": [
+      "https://example.com/images/e13-front.jpg",
+      "https://example.com/images/e13-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Unisoc T606",
+      "ram": "4GB",
+      "storage": "64GB",
+      "battery": "5000mAh",
+      "camera": "13MP",
+      "display": "6.5-inch LCD, 60Hz"
+    },
+    "seller": {
+      "id": "67a2345678b89c8d90e34567",
+      "name": "MotoWorld Store",
+      "contactEmail": "seller@motoworld.com"
+    },
+    "createdAt": "2024-12-20T23:00:00.000Z",
+    "updatedAt": "2024-12-22T03:00:00.000Z"
+  },
+
+  {
+    "id": "67a1234567b89c8d90e10006",
+    "name": "Motorola Edge Plus (2024)",
+    "description": "The Motorola Edge Plus (2024) delivers premium performance with the Snapdragon 8 Gen 2 chipset, a curved OLED display, and ultra-fast charging.",
+    "price": 899.99,
+    "category": "Smartphones",
+    "brand": "Motorola",
+    "stock": 35,
+    "rating": 4.8,
+    "reviewsCount": 200,
+    "images": [
+      "https://example.com/images/edgeplus2024-front.jpg",
+      "https://example.com/images/edgeplus2024-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": "12GB",
+      "storage": "512GB",
+      "battery": "5100mAh",
+      "camera": "50MP + 50MP + 12MP",
+      "display": "6.7-inch OLED, 144Hz"
+    },
+    "seller": {
+      "id": "67a2345678b89c8d90e34567",
+      "name": "MotoWorld Store",
+      "contactEmail": "seller@motoworld.com"
+    },
+    "createdAt": "2024-12-20T23:30:00.000Z",
+    "updatedAt": "2024-12-22T03:30:00.000Z"
+  },
+  {
+    "id": "67a1234567b89c8d90e10007",
+    "name": "Motorola One 5G Ace",
+    "description": "The Motorola One 5G Ace is a mid-range phone with 5G support, a large battery, and a stunning FHD+ display.",
+    "price": 399.99,
+    "category": "Smartphones",
+    "brand": "Motorola",
+    "stock": 55,
+    "rating": 4.4,
+    "reviewsCount": 150,
+    "images": [
+      "https://example.com/images/one5gace-front.jpg",
+      "https://example.com/images/one5gace-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 750G",
+      "ram": "6GB",
+      "storage": "128GB",
+      "battery": "5000mAh",
+      "camera": "48MP + 8MP + 2MP",
+      "display": "6.7-inch LCD, 60Hz"
+    },
+    "seller": {
+      "id": "67a2345678b89c8d90e34567",
+      "name": "MotoWorld Store",
+      "contactEmail": "seller@motoworld.com"
+    },
+    "createdAt": "2024-12-21T00:00:00.000Z",
+    "updatedAt": "2024-12-22T04:00:00.000Z"
+  },
+  {
+    "id": "67a1234567b89c8d90e10008",
+    "name": "Motorola G Stylus (2024)",
+    "description": "The Motorola G Stylus (2024) features a built-in stylus, large storage, and a long-lasting battery for creative users.",
+    "price": 299.99,
+    "category": "Smartphones",
+    "brand": "Motorola",
+    "stock": 70,
+    "rating": 4.3,
+    "reviewsCount": 120,
+    "images": [
+      "https://example.com/images/gstylus2024-front.jpg",
+      "https://example.com/images/gstylus2024-back.jpg"
+    ],
+    "specifications": {
+      "processor": "MediaTek Helio G88",
+      "ram": "6GB",
+      "storage": "128GB",
+      "battery": "5000mAh",
+      "camera": "50MP + 8MP",
+      "display": "6.8-inch LCD, 120Hz"
+    },
+    "seller": {
+      "id": "67a2345678b89c8d90e34567",
+      "name": "MotoWorld Store",
+      "contactEmail": "seller@motoworld.com"
+    },
+    "createdAt": "2024-12-21T00:30:00.000Z",
+    "updatedAt": "2024-12-22T04:30:00.000Z"
+  },
+  {
+    "id": "67a1234567b89c8d90e10009",
+    "name": "Motorola G Power (2024)",
+    "description": "The Motorola G Power (2024) is designed for long battery life, featuring a massive 6000mAh battery and a versatile triple-camera system.",
+    "price": 249.99,
+    "category": "Smartphones",
+    "brand": "Motorola",
+    "stock": 65,
+    "rating": 4.2,
+    "reviewsCount": 100,
+    "images": [
+      "https://example.com/images/gpower2024-front.jpg",
+      "https://example.com/images/gpower2024-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 680",
+      "ram": "4GB",
+      "storage": "128GB",
+      "battery": "6000mAh",
+      "camera": "50MP + 2MP + 2MP",
+      "display": "6.5-inch LCD, 90Hz"
+    },
+    "seller": {
+      "id": "67a2345678b89c8d90e34567",
+      "name": "MotoWorld Store",
+      "contactEmail": "seller@motoworld.com"
+    },
+    "createdAt": "2024-12-21T01:00:00.000Z",
+    "updatedAt": "2024-12-22T05:00:00.000Z"
+  },
+  {
+    "id": "67a1234567b89c8d90e10010",
+    "name": "Motorola Defy (2024)",
+    "description": "The Motorola Defy (2024) is a rugged phone with military-grade durability, water resistance, and a long-lasting battery.",
+    "price": 499.99,
+    "category": "Smartphones",
+    "brand": "Motorola",
+    "stock": 40,
+    "rating": 4.5,
+    "reviewsCount": 130,
+    "images": [
+      "https://example.com/images/defy2024-front.jpg",
+      "https://example.com/images/defy2024-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 480",
+      "ram": "6GB",
+      "storage": "128GB",
+      "battery": "5000mAh",
+      "camera": "48MP + 2MP",
+      "display": "6.5-inch LCD, 60Hz"
+    },
+    "seller": {
+      "id": "67a2345678b89c8d90e34567",
+      "name": "MotoWorld Store",
+      "contactEmail": "seller@motoworld.com"
+    },
+    "createdAt": "2024-12-21T01:30:00.000Z",
+    "updatedAt": "2024-12-22T05:30:00.000Z"
+  },
+
+  {
+    "id": "63d1234567b89c8d90h12345",
+    "name": "OnePlus Ace 2 Pro",
+    "description": "The OnePlus Ace 2 Pro is built for performance enthusiasts with Snapdragon 8 Gen 2, a 6.74-inch AMOLED display, and 150W fast charging.",
+    "price": 799.99,
+    "category": "Smartphones",
+    "brand": "OnePlus",
+    "stock": 55,
+    "rating": 4.7,
+    "reviewsCount": 88,
+    "images": [
+      "https://example.com/images/ace2pro-front.jpg",
+      "https://example.com/images/ace2pro-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": "16GB",
+      "storage": "512GB",
+      "battery": "5000mAh",
+      "camera": "50MP + 8MP + 2MP",
+      "display": "6.74-inch AMOLED, 120Hz"
+    },
+    "seller": {
+      "id": "63d2345678b89c8d90h23456",
+      "name": "PerformanceStore",
+      "contactEmail": "support@performancestore.com"
+    },
+    "createdAt": "2024-12-10T11:00:00.000Z",
+    "updatedAt": "2024-12-21T15:00:00.000Z"
+  },
+  {
+    "id": "63d2345678b89c8d90h23457",
+    "name": "OnePlus 9 Pro",
+    "description": "The OnePlus 9 Pro offers a 120Hz Fluid AMOLED display, Hasselblad-enhanced cameras, and a sleek design.",
+    "price": 749.99,
+    "category": "Smartphones",
+    "brand": "OnePlus",
+    "stock": 65,
+    "rating": 4.6,
+    "reviewsCount": 140,
+    "images": [
+      "https://example.com/images/9pro-front.jpg",
+      "https://example.com/images/9pro-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 888",
+      "ram": "12GB",
+      "storage": "256GB",
+      "battery": "4500mAh",
+      "camera": "48MP + 50MP + 8MP",
+      "display": "6.7-inch Fluid AMOLED, 120Hz"
+    },
+    "seller": {
+      "id": "63d2345678b89c8d90h23458",
+      "name": "EliteTech",
+      "contactEmail": "info@elitetech.com"
+    },
+    "createdAt": "2024-12-09T10:00:00.000Z",
+    "updatedAt": "2024-12-21T15:00:00.000Z"
+  },
+  {
+    "id": "63d2345678b89c8d90h23459",
+    "name": "OnePlus Nord 2T",
+    "description": "The OnePlus Nord 2T brings enhanced features to the Nord lineup with a Dimensity 1300 processor and a 90Hz AMOLED display.",
+    "price": 399.99,
+    "category": "Smartphones",
+    "brand": "OnePlus",
+    "stock": 100,
+    "rating": 4.4,
+    "reviewsCount": 75,
+    "images": [
+      "https://example.com/images/nord2t-front.jpg",
+      "https://example.com/images/nord2t-back.jpg"
+    ],
+    "specifications": {
+      "processor": "MediaTek Dimensity 1300",
+      "ram": "8GB",
+      "storage": "128GB",
+      "battery": "4500mAh",
+      "camera": "50MP + 8MP + 2MP",
+      "display": "6.43-inch AMOLED, 90Hz"
+    },
+    "seller": {
+      "id": "63d2345678b89c8d90h23460",
+      "name": "Nordify Store",
+      "contactEmail": "contact@nordify.com"
+    },
+    "createdAt": "2024-12-08T12:00:00.000Z",
+    "updatedAt": "2024-12-21T15:00:00.000Z"
+  },
+  {
+    "id": "63d2345678b89c8d90h23461",
+    "name": "OnePlus 10 Pro",
+    "description": "The OnePlus 10 Pro combines cutting-edge design with top-tier specs, including Snapdragon 8 Gen 1, a 120Hz AMOLED display, and Hasselblad cameras.",
+    "price": 899.99,
+    "category": "Smartphones",
+    "brand": "OnePlus",
+    "stock": 40,
+    "rating": 4.8,
+    "reviewsCount": 160,
+    "images": [
+      "https://example.com/images/10pro-front.jpg",
+      "https://example.com/images/10pro-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 8 Gen 1",
+      "ram": "12GB",
+      "storage": "256GB",
+      "battery": "5000mAh",
+      "camera": "48MP + 50MP + 8MP",
+      "display": "6.7-inch AMOLED, 120Hz"
+    },
+    "seller": {
+      "id": "63d2345678b89c8d90h23462",
+      "name": "PremiumPhones",
+      "contactEmail": "support@premiumphones.com"
+    },
+    "createdAt": "2024-12-07T10:00:00.000Z",
+    "updatedAt": "2024-12-21T15:00:00.000Z"
+  },
+  {
+    "id": "63d2345678b89c8d90h23463",
+    "name": "OnePlus Nord N20 5G",
+    "description": "The OnePlus Nord N20 5G is a compact and affordable device featuring a 6.43-inch AMOLED display and a 64MP triple-camera system.",
+    "price": 299.99,
+    "category": "Smartphones",
+    "brand": "OnePlus",
+    "stock": 120,
+    "rating": 4.3,
+    "reviewsCount": 55,
+    "images": [
+      "https://example.com/images/nordn20-front.jpg",
+      "https://example.com/images/nordn20-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 695",
+      "ram": "6GB",
+      "storage": "128GB",
+      "battery": "4500mAh",
+      "camera": "64MP + 2MP + 2MP",
+      "display": "6.43-inch AMOLED, 60Hz"
+    },
+    "seller": {
+      "id": "63d2345678b89c8d90h23464",
+      "name": "AffordableTech",
+      "contactEmail": "info@affordabletech.com"
+    },
+    "createdAt": "2024-12-06T14:00:00.000Z",
+    "updatedAt": "2024-12-21T15:00:00.000Z"
+  },
+
+  {
+    "id": "63c1234567b89c8d90g12345",
+    "name": "OnePlus 12 Pro",
+    "description": "The OnePlus 12 Pro features a 6.7-inch AMOLED display, Snapdragon 8 Gen 3 processor, and Hasselblad-tuned triple camera setup.",
+    "price": 1099.99,
+    "category": "Smartphones",
+    "brand": "OnePlus",
+    "stock": 50,
+    "rating": 4.8,
+    "reviewsCount": 120,
+    "images": [
+      "https://example.com/images/oneplus12pro-front.jpg",
+      "https://example.com/images/oneplus12pro-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 8 Gen 3",
+      "ram": "16GB",
+      "storage": "512GB",
+      "battery": "5000mAh",
+      "camera": "50MP + 48MP + 32MP",
+      "display": "6.7-inch AMOLED, 120Hz"
+    },
+    "seller": {
+      "id": "63c2345678b89c8d90g23456",
+      "name": "OnePlus Official",
+      "contactEmail": "support@oneplus.com"
+    },
+    "createdAt": "2024-12-15T10:00:00.000Z",
+    "updatedAt": "2024-12-21T15:00:00.000Z"
+  },
+  {
+    "id": "63c2345678b89c8d90g23457",
+    "name": "OnePlus Nord 3 5G",
+    "description": "The OnePlus Nord 3 5G offers a powerful MediaTek Dimensity 9000 chip, a 6.74-inch AMOLED display, and 80W fast charging.",
+    "price": 499.99,
+    "category": "Smartphones",
+    "brand": "OnePlus",
+    "stock": 75,
+    "rating": 4.5,
+    "reviewsCount": 90,
+    "images": [
+      "https://example.com/images/nord3-front.jpg",
+      "https://example.com/images/nord3-back.jpg"
+    ],
+    "specifications": {
+      "processor": "MediaTek Dimensity 9000",
+      "ram": "12GB",
+      "storage": "256GB",
+      "battery": "5000mAh",
+      "camera": "50MP + 8MP + 2MP",
+      "display": "6.74-inch AMOLED, 120Hz"
+    },
+    "seller": {
+      "id": "63c2345678b89c8d90g23458",
+      "name": "Nord Central",
+      "contactEmail": "info@nordcentral.com"
+    },
+    "createdAt": "2024-12-14T09:00:00.000Z",
+    "updatedAt": "2024-12-21T15:00:00.000Z"
+  },
+  {
+    "id": "63c2345678b89c8d90g23459",
+    "name": "OnePlus 11R",
+    "description": "The OnePlus 11R delivers flagship-level performance with Snapdragon 8+ Gen 1, a 6.74-inch AMOLED display, and premium design.",
+    "price": 699.99,
+    "category": "Smartphones",
+    "brand": "OnePlus",
+    "stock": 60,
+    "rating": 4.6,
+    "reviewsCount": 85,
+    "images": [
+      "https://example.com/images/11r-front.jpg",
+      "https://example.com/images/11r-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 8+ Gen 1",
+      "ram": "16GB",
+      "storage": "256GB",
+      "battery": "5000mAh",
+      "camera": "50MP + 8MP + 2MP",
+      "display": "6.74-inch AMOLED, 120Hz"
+    },
+    "seller": {
+      "id": "63c2345678b89c8d90g23460",
+      "name": "Flagship Phones",
+      "contactEmail": "contact@flagshipphones.com"
+    },
+    "createdAt": "2024-12-13T08:00:00.000Z",
+    "updatedAt": "2024-12-21T15:00:00.000Z"
+  },
+  {
+    "id": "63c2345678b89c8d90g23461",
+    "name": "OnePlus Nord CE 3 Lite",
+    "description": "The OnePlus Nord CE 3 Lite is a budget-friendly smartphone with a 6.72-inch display, 108MP camera, and 67W fast charging.",
+    "price": 299.99,
+    "category": "Smartphones",
+    "brand": "OnePlus",
+    "stock": 100,
+    "rating": 4.3,
+    "reviewsCount": 70,
+    "images": [
+      "https://example.com/images/nordce3lite-front.jpg",
+      "https://example.com/images/nordce3lite-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 695",
+      "ram": "8GB",
+      "storage": "128GB",
+      "battery": "5000mAh",
+      "camera": "108MP + 2MP + 2MP",
+      "display": "6.72-inch LCD, 120Hz"
+    },
+    "seller": {
+      "id": "63c2345678b89c8d90g23462",
+      "name": "Budget Tech",
+      "contactEmail": "support@budgettech.com"
+    },
+    "createdAt": "2024-12-12T12:00:00.000Z",
+    "updatedAt": "2024-12-21T15:00:00.000Z"
+  },
+  {
+    "id": "63c2345678b89c8d90g23463",
+    "name": "OnePlus 10T",
+    "description": "The OnePlus 10T delivers ultimate performance with Snapdragon 8+ Gen 1, 150W fast charging, and a 6.7-inch AMOLED display.",
+    "price": 749.99,
+    "category": "Smartphones",
+    "brand": "OnePlus",
+    "stock": 45,
+    "rating": 4.6,
+    "reviewsCount": 95,
+    "images": [
+      "https://example.com/images/10t-front.jpg",
+      "https://example.com/images/10t-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 8+ Gen 1",
+      "ram": "16GB",
+      "storage": "256GB",
+      "battery": "4800mAh",
+      "camera": "50MP + 8MP + 2MP",
+      "display": "6.7-inch AMOLED, 120Hz"
+    },
+    "seller": {
+      "id": "63c2345678b89c8d90g23464",
+      "name": "PerformanceTech",
+      "contactEmail": "info@performancetech.com"
+    },
+    "createdAt": "2024-12-11T10:00:00.000Z",
+    "updatedAt": "2024-12-21T15:00:00.000Z"
+  },
+
+  {
+    "id": "68a1234567b89c8d90e10001",
+    "name": "Oppo Find X6 Pro",
+    "description": "The Oppo Find X6 Pro features a stunning AMOLED display, a powerful Snapdragon 8 Gen 2 processor, and a triple-camera setup for professional photography.",
+    "price": 1199.99,
+    "category": "Smartphones",
+    "brand": "Oppo",
+    "stock": 50,
+    "rating": 4.8,
+    "reviewsCount": 220,
+    "images": [
+      "https://example.com/images/findx6pro-front.jpg",
+      "https://example.com/images/findx6pro-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": "16GB",
+      "storage": "512GB",
+      "battery": "5000mAh",
+      "camera": "50MP + 50MP + 50MP",
+      "display": "6.8-inch AMOLED, 120Hz"
+    },
+    "seller": {
+      "id": "68a2345678b89c8d90e34567",
+      "name": "Oppo World Store",
+      "contactEmail": "seller@oppoworld.com"
+    },
+    "createdAt": "2024-12-21T02:00:00.000Z",
+    "updatedAt": "2024-12-22T06:00:00.000Z"
+  },
+  {
+    "id": "68a1234567b89c8d90e10002",
+    "name": "Oppo Reno10 Pro+",
+    "description": "The Oppo Reno10 Pro+ offers an immersive curved AMOLED display, 5G support, and a periscope telephoto lens for advanced photography.",
+    "price": 899.99,
+    "category": "Smartphones",
+    "brand": "Oppo",
+    "stock": 60,
+    "rating": 4.7,
+    "reviewsCount": 180,
+    "images": [
+      "https://example.com/images/reno10proplus-front.jpg",
+      "https://example.com/images/reno10proplus-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 8+ Gen 1",
+      "ram": "12GB",
+      "storage": "256GB",
+      "battery": "4700mAh",
+      "camera": "50MP + 8MP + 64MP",
+      "display": "6.7-inch AMOLED, 120Hz"
+    },
+    "seller": {
+      "id": "68a2345678b89c8d90e34567",
+      "name": "Oppo World Store",
+      "contactEmail": "seller@oppoworld.com"
+    },
+    "createdAt": "2024-12-21T02:30:00.000Z",
+    "updatedAt": "2024-12-22T06:30:00.000Z"
+  },
+  {
+    "id": "68a1234567b89c8d90e10003",
+    "name": "Oppo F23 5G",
+    "description": "The Oppo F23 5G features a sleek design, Snapdragon 695 processor, and a massive battery with 67W fast charging.",
+    "price": 329.99,
+    "category": "Smartphones",
+    "brand": "Oppo",
+    "stock": 100,
+    "rating": 4.4,
+    "reviewsCount": 140,
+    "images": [
+      "https://example.com/images/f23-5g-front.jpg",
+      "https://example.com/images/f23-5g-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 695",
+      "ram": "8GB",
+      "storage": "128GB",
+      "battery": "5000mAh",
+      "camera": "64MP + 2MP + 2MP",
+      "display": "6.72-inch LCD, 120Hz"
+    },
+    "seller": {
+      "id": "68a2345678b89c8d90e34567",
+      "name": "Oppo World Store",
+      "contactEmail": "seller@oppoworld.com"
+    },
+    "createdAt": "2024-12-21T03:00:00.000Z",
+    "updatedAt": "2024-12-22T07:00:00.000Z"
+  },
+  {
+    "id": "68a1234567b89c8d90e10004",
+    "name": "Oppo A98 5G",
+    "description": "The Oppo A98 5G offers a powerful MediaTek Dimensity processor, 5G support, and a high refresh rate LCD display at an affordable price.",
+    "price": 279.99,
+    "category": "Smartphones",
+    "brand": "Oppo",
+    "stock": 120,
+    "rating": 4.3,
+    "reviewsCount": 110,
+    "images": [
+      "https://example.com/images/a98-5g-front.jpg",
+      "https://example.com/images/a98-5g-back.jpg"
+    ],
+    "specifications": {
+      "processor": "MediaTek Dimensity 6020",
+      "ram": "8GB",
+      "storage": "128GB",
+      "battery": "5000mAh",
+      "camera": "64MP + 2MP + 2MP",
+      "display": "6.7-inch LCD, 120Hz"
+    },
+    "seller": {
+      "id": "68a2345678b89c8d90e34567",
+      "name": "Oppo World Store",
+      "contactEmail": "seller@oppoworld.com"
+    },
+    "createdAt": "2024-12-21T03:30:00.000Z",
+    "updatedAt": "2024-12-22T07:30:00.000Z"
+  },
+  {
+    "id": "68a1234567b89c8d90e10005",
+    "name": "Oppo A78 4G",
+    "description": "The Oppo A78 4G is a budget-friendly smartphone with a stylish design, dual-camera setup, and long battery life.",
+    "price": 199.99,
+    "category": "Smartphones",
+    "brand": "Oppo",
+    "stock": 150,
+    "rating": 4.2,
+    "reviewsCount": 90,
+    "images": [
+      "https://example.com/images/a78-4g-front.jpg",
+      "https://example.com/images/a78-4g-back.jpg"
+    ],
+    "specifications": {
+      "processor": "MediaTek Helio G85",
+      "ram": "6GB",
+      "storage": "128GB",
+      "battery": "5000mAh",
+      "camera": "50MP + 2MP",
+      "display": "6.43-inch AMOLED, 60Hz"
+    },
+    "seller": {
+      "id": "68a2345678b89c8d90e34567",
+      "name": "Oppo World Store",
+      "contactEmail": "seller@oppoworld.com"
+    },
+    "createdAt": "2024-12-21T04:00:00.000Z",
+    "updatedAt": "2024-12-22T08:00:00.000Z"
+  },
+
+  {
+    "id": "68a1234567b89c8d90e10006",
+    "name": "Oppo Reno8 Pro 5G",
+    "description": "The Oppo Reno8 Pro 5G delivers a premium design, MediaTek Dimensity 8100-Max chipset, and stunning camera performance.",
+    "price": 749.99,
+    "category": "Smartphones",
+    "brand": "Oppo",
+    "stock": 80,
+    "rating": 4.6,
+    "reviewsCount": 210,
+    "images": [
+      "https://example.com/images/reno8pro5g-front.jpg",
+      "https://example.com/images/reno8pro5g-back.jpg"
+    ],
+    "specifications": {
+      "processor": "MediaTek Dimensity 8100-Max",
+      "ram": "12GB",
+      "storage": "256GB",
+      "battery": "4500mAh",
+      "camera": "50MP + 8MP + 2MP",
+      "display": "6.7-inch AMOLED, 120Hz"
+    },
+    "seller": {
+      "id": "68a2345678b89c8d90e34567",
+      "name": "Oppo World Store",
+      "contactEmail": "seller@oppoworld.com"
+    },
+    "createdAt": "2024-12-21T04:30:00.000Z",
+    "updatedAt": "2024-12-22T08:30:00.000Z"
+  },
+  {
+    "id": "68a1234567b89c8d90e10007",
+    "name": "Oppo K11x",
+    "description": "The Oppo K11x is a mid-range powerhouse with Snapdragon 695, long battery life, and a sharp FHD+ display.",
+    "price": 249.99,
+    "category": "Smartphones",
+    "brand": "Oppo",
+    "stock": 130,
+    "rating": 4.4,
+    "reviewsCount": 100,
+    "images": [
+      "https://example.com/images/k11x-front.jpg",
+      "https://example.com/images/k11x-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 695",
+      "ram": "8GB",
+      "storage": "128GB",
+      "battery": "5000mAh",
+      "camera": "64MP + 2MP + 2MP",
+      "display": "6.72-inch LCD, 120Hz"
+    },
+    "seller": {
+      "id": "68a2345678b89c8d90e34567",
+      "name": "Oppo World Store",
+      "contactEmail": "seller@oppoworld.com"
+    },
+    "createdAt": "2024-12-21T05:00:00.000Z",
+    "updatedAt": "2024-12-22T09:00:00.000Z"
+  },
+  {
+    "id": "68a1234567b89c8d90e10008",
+    "name": "Oppo A77s",
+    "description": "The Oppo A77s offers excellent value with its Snapdragon 680 processor, stylish design, and long battery life.",
+    "price": 229.99,
+    "category": "Smartphones",
+    "brand": "Oppo",
+    "stock": 140,
+    "rating": 4.3,
+    "reviewsCount": 85,
+    "images": [
+      "https://example.com/images/a77s-front.jpg",
+      "https://example.com/images/a77s-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 680",
+      "ram": "8GB",
+      "storage": "128GB",
+      "battery": "5000mAh",
+      "camera": "50MP + 2MP",
+      "display": "6.56-inch LCD, 90Hz"
+    },
+    "seller": {
+      "id": "68a2345678b89c8d90e34567",
+      "name": "Oppo World Store",
+      "contactEmail": "seller@oppoworld.com"
+    },
+    "createdAt": "2024-12-21T05:30:00.000Z",
+    "updatedAt": "2024-12-22T09:30:00.000Z"
+  },
+  {
+    "id": "68a1234567b89c8d90e10009",
+    "name": "Oppo A17",
+    "description": "The Oppo A17 is a budget-friendly option with a sleek leather texture design and a long-lasting battery.",
+    "price": 149.99,
+    "category": "Smartphones",
+    "brand": "Oppo",
+    "stock": 200,
+    "rating": 4.1,
+    "reviewsCount": 60,
+    "images": [
+      "https://example.com/images/a17-front.jpg",
+      "https://example.com/images/a17-back.jpg"
+    ],
+    "specifications": {
+      "processor": "MediaTek Helio G35",
+      "ram": "4GB",
+      "storage": "64GB",
+      "battery": "5000mAh",
+      "camera": "50MP + 2MP",
+      "display": "6.56-inch LCD, 60Hz"
+    },
+    "seller": {
+      "id": "68a2345678b89c8d90e34567",
+      "name": "Oppo World Store",
+      "contactEmail": "seller@oppoworld.com"
+    },
+    "createdAt": "2024-12-21T06:00:00.000Z",
+    "updatedAt": "2024-12-22T10:00:00.000Z"
+  },
+  {
+    "id": "68a1234567b89c8d90e10010",
+    "name": "Oppo Pad Air",
+    "description": "Oppo Pad Air offers a unique blend of tablet functionality and smartphone performance, featuring a high-resolution display and premium build quality.",
+    "price": 299.99,
+    "category": "Smartphones",
+    "brand": "Oppo",
+    "stock": 90,
+    "rating": 4.5,
+    "reviewsCount": 75,
+    "images": [
+      "https://example.com/images/pad-air-front.jpg",
+      "https://example.com/images/pad-air-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 680",
+      "ram": "6GB",
+      "storage": "128GB",
+      "battery": "7100mAh",
+      "camera": "8MP + 5MP",
+      "display": "10.36-inch LCD, 60Hz"
+    },
+    "seller": {
+      "id": "68a2345678b89c8d90e34567",
+      "name": "Oppo World Store",
+      "contactEmail": "seller@oppoworld.com"
+    },
+    "createdAt": "2024-12-21T06:30:00.000Z",
+    "updatedAt": "2024-12-22T10:30:00.000Z"
+  },
+
+  {
+    "id": "63e3456789b89c8d90j34567",
+    "name": "Realme GT 3",
+    "description": "The Realme GT 3 offers extreme performance with Snapdragon 8+ Gen 1, a 6.74-inch AMOLED display, and 150W fast charging for lightning-fast power-ups.",
+    "price": 949.99,
+    "category": "Smartphones",
+    "brand": "Realme",
+    "stock": 65,
+    "rating": 4.9,
+    "reviewsCount": 180,
+    "images": [
+      "https://example.com/images/gt3-front.jpg",
+      "https://example.com/images/gt3-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 8+ Gen 1",
+      "ram": "16GB",
+      "storage": "512GB",
+      "battery": "4600mAh",
+      "camera": "50MP + 8MP + 2MP",
+      "display": "6.74-inch AMOLED, 120Hz"
+    },
+    "seller": {
+      "id": "63e4567890b89c8d90j34568",
+      "name": "TechGalaxy",
+      "contactEmail": "support@techgalaxy.com"
+    },
+    "createdAt": "2024-12-18T10:00:00.000Z",
+    "updatedAt": "2024-12-21T16:00:00.000Z"
+  },
+  {
+    "id": "63e4567890b89c8d90j34569",
+    "name": "Realme Narzo 50 Pro 5G",
+    "description": "Realme Narzo 50 Pro 5G is equipped with a 48MP camera, 6.4-inch AMOLED display, and the Dimensity 920 processor for a smooth and fast experience.",
+    "price": 249.99,
+    "category": "Smartphones",
+    "brand": "Realme",
+    "stock": 100,
+    "rating": 4.5,
+    "reviewsCount": 95,
+    "images": [
+      "https://example.com/images/narzo50pro-front.jpg",
+      "https://example.com/images/narzo50pro-back.jpg"
+    ],
+    "specifications": {
+      "processor": "MediaTek Dimensity 920",
+      "ram": "6GB",
+      "storage": "128GB",
+      "battery": "5000mAh",
+      "camera": "48MP + 8MP + 2MP",
+      "display": "6.4-inch AMOLED, 90Hz"
+    },
+    "seller": {
+      "id": "63e4567890b89c8d90j34570",
+      "name": "Realme Store",
+      "contactEmail": "service@realme.com"
+    },
+    "createdAt": "2024-12-17T11:30:00.000Z",
+    "updatedAt": "2024-12-21T16:00:00.000Z"
+  },
+  {
+    "id": "63e5678901b89c8d90j45671",
+    "name": "Realme C35",
+    "description": "Realme C35 delivers a solid experience with a 50MP AI camera, 6.6-inch LCD screen, and a large 5000mAh battery, offering great value for money.",
+    "price": 179.99,
+    "category": "Smartphones",
+    "brand": "Realme",
+    "stock": 150,
+    "rating": 4.3,
+    "reviewsCount": 60,
+    "images": [
+      "https://example.com/images/c35-front.jpg",
+      "https://example.com/images/c35-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Unisoc T616",
+      "ram": "4GB",
+      "storage": "64GB",
+      "battery": "5000mAh",
+      "camera": "50MP + 2MP",
+      "display": "6.6-inch LCD, 90Hz"
+    },
+    "seller": {
+      "id": "63e5678901b89c8d90j45672",
+      "name": "Mobile Mart",
+      "contactEmail": "support@mobilemart.com"
+    },
+    "createdAt": "2024-12-16T13:00:00.000Z",
+    "updatedAt": "2024-12-21T16:00:00.000Z"
+  },
+  {
+    "id": "63e6789012b89c8d90j56773",
+    "name": "Realme 9 Pro+ 5G",
+    "description": "The Realme 9 Pro+ 5G features a 90Hz AMOLED display, 50MP primary camera, and 65W SuperDart charging for rapid recharging.",
+    "price": 359.99,
+    "category": "Smartphones",
+    "brand": "Realme",
+    "stock": 80,
+    "rating": 4.7,
+    "reviewsCount": 125,
+    "images": [
+      "https://example.com/images/realme9proplus-front.jpg",
+      "https://example.com/images/realme9proplus-back.jpg"
+    ],
+    "specifications": {
+      "processor": "MediaTek Dimensity 920",
+      "ram": "8GB",
+      "storage": "128GB",
+      "battery": "4500mAh",
+      "camera": "50MP + 8MP + 2MP",
+      "display": "6.4-inch AMOLED, 90Hz"
+    },
+    "seller": {
+      "id": "63e6789012b89c8d90j56774",
+      "name": "TechCentral",
+      "contactEmail": "info@techcentral.com"
+    },
+    "createdAt": "2024-12-14T14:30:00.000Z",
+    "updatedAt": "2024-12-21T16:00:00.000Z"
+  },
+  {
+    "id": "63e7890123b89c8d90j67875",
+    "name": "Realme GT Master Edition",
+    "description": "The Realme GT Master Edition offers a sleek design, Snapdragon 778G, and a 120Hz Super AMOLED display, designed for those who love performance and style.",
+    "price": 359.99,
+    "category": "Smartphones",
+    "brand": "Realme",
+    "stock": 60,
+    "rating": 4.6,
+    "reviewsCount": 110,
+    "images": [
+      "https://example.com/images/gtmasterfront.jpg",
+      "https://example.com/images/gtmasterback.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 778G",
+      "ram": "8GB",
+      "storage": "128GB",
+      "battery": "4300mAh",
+      "camera": "64MP + 8MP + 2MP",
+      "display": "6.43-inch Super AMOLED, 120Hz"
+    },
+    "seller": {
+      "id": "63e7890123b89c8d90j67876",
+      "name": "MobileWorld",
+      "contactEmail": "help@mobileworld.com"
+    },
+    "createdAt": "2024-12-13T16:00:00.000Z",
+    "updatedAt": "2024-12-21T16:00:00.000Z"
+  },
+
+  {
+    "id": "63e1234567b89c8d90i12345",
+    "name": "Realme GT 2 Pro",
+    "description": "The Realme GT 2 Pro delivers flagship performance with Snapdragon 8 Gen 1, a 6.7-inch AMOLED display, and a 50MP triple camera setup.",
+    "price": 899.99,
+    "category": "Smartphones",
+    "brand": "Realme",
+    "stock": 50,
+    "rating": 4.8,
+    "reviewsCount": 150,
+    "images": [
+      "https://example.com/images/gt2pro-front.jpg",
+      "https://example.com/images/gt2pro-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 8 Gen 1",
+      "ram": "12GB",
+      "storage": "256GB",
+      "battery": "5000mAh",
+      "camera": "50MP + 50MP + 2MP",
+      "display": "6.7-inch AMOLED, 120Hz"
+    },
+    "seller": {
+      "id": "63e2345678b89c8d90i23456",
+      "name": "Realme Official",
+      "contactEmail": "support@realme.com"
+    },
+    "createdAt": "2024-12-15T09:00:00.000Z",
+    "updatedAt": "2024-12-21T16:00:00.000Z"
+  },
+  {
+    "id": "63e2345678b89c8d90i23457",
+    "name": "Realme 11 Pro+",
+    "description": "The Realme 11 Pro+ offers a 200MP camera, MediaTek Dimensity 1080 chip, and a 120Hz curved AMOLED display for immersive visuals.",
+    "price": 499.99,
+    "category": "Smartphones",
+    "brand": "Realme",
+    "stock": 75,
+    "rating": 4.6,
+    "reviewsCount": 110,
+    "images": [
+      "https://example.com/images/realme11proplus-front.jpg",
+      "https://example.com/images/realme11proplus-back.jpg"
+    ],
+    "specifications": {
+      "processor": "MediaTek Dimensity 1080",
+      "ram": "12GB",
+      "storage": "256GB",
+      "battery": "5000mAh",
+      "camera": "200MP + 8MP + 2MP",
+      "display": "6.7-inch AMOLED, 120Hz"
+    },
+    "seller": {
+      "id": "63e2345678b89c8d90i23458",
+      "name": "Tech Hub",
+      "contactEmail": "contact@techhub.com"
+    },
+    "createdAt": "2024-12-14T11:00:00.000Z",
+    "updatedAt": "2024-12-21T16:00:00.000Z"
+  },
+  {
+    "id": "63e2345678b89c8d90i23459",
+    "name": "Realme Narzo 60",
+    "description": "The Realme Narzo 60 features a 6.7-inch LCD, MediaTek Dimensity 6020 chip, and 33W SuperVOOC fast charging for an excellent budget experience.",
+    "price": 249.99,
+    "category": "Smartphones",
+    "brand": "Realme",
+    "stock": 120,
+    "rating": 4.4,
+    "reviewsCount": 65,
+    "images": [
+      "https://example.com/images/narzo60-front.jpg",
+      "https://example.com/images/narzo60-back.jpg"
+    ],
+    "specifications": {
+      "processor": "MediaTek Dimensity 6020",
+      "ram": "6GB",
+      "storage": "128GB",
+      "battery": "5000mAh",
+      "camera": "50MP + 2MP",
+      "display": "6.7-inch LCD, 90Hz"
+    },
+    "seller": {
+      "id": "63e2345678b89c8d90i23460",
+      "name": "AffordableMobiles",
+      "contactEmail": "sales@affordablemobiles.com"
+    },
+    "createdAt": "2024-12-13T12:00:00.000Z",
+    "updatedAt": "2024-12-21T16:00:00.000Z"
+  },
+  {
+    "id": "63e2345678b89c8d90i23461",
+    "name": "Realme 10 Pro+ 5G",
+    "description": "The Realme 10 Pro+ 5G features a 120Hz curved AMOLED display, Snapdragon 695 5G chip, and a 108MP primary camera.",
+    "price": 399.99,
+    "category": "Smartphones",
+    "brand": "Realme",
+    "stock": 90,
+    "rating": 4.5,
+    "reviewsCount": 85,
+    "images": [
+      "https://example.com/images/realme10proplus-front.jpg",
+      "https://example.com/images/realme10proplus-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 695",
+      "ram": "8GB",
+      "storage": "128GB",
+      "battery": "5000mAh",
+      "camera": "108MP + 8MP + 2MP",
+      "display": "6.7-inch AMOLED, 120Hz"
+    },
+    "seller": {
+      "id": "63e2345678b89c8d90i23462",
+      "name": "MobileShop",
+      "contactEmail": "support@mobileshop.com"
+    },
+    "createdAt": "2024-12-12T14:00:00.000Z",
+    "updatedAt": "2024-12-21T16:00:00.000Z"
+  },
+  {
+    "id": "63e2345678b89c8d90i23463",
+    "name": "Realme C55",
+    "description": "The Realme C55 offers a 64MP camera, a 6.72-inch LCD display, and a massive 5000mAh battery, making it an ideal choice for budget-conscious users.",
+    "price": 199.99,
+    "category": "Smartphones",
+    "brand": "Realme",
+    "stock": 150,
+    "rating": 4.2,
+    "reviewsCount": 50,
+    "images": [
+      "https://example.com/images/c55-front.jpg",
+      "https://example.com/images/c55-back.jpg"
+    ],
+    "specifications": {
+      "processor": "MediaTek Helio G88",
+      "ram": "4GB",
+      "storage": "64GB",
+      "battery": "5000mAh",
+      "camera": "64MP + 2MP",
+      "display": "6.72-inch LCD, 90Hz"
+    },
+    "seller": {
+      "id": "63e2345678b89c8d90i23464",
+      "name": "Realme Official Store",
+      "contactEmail": "help@realmeofficialstore.com"
+    },
+    "createdAt": "2024-12-11T10:00:00.000Z",
+    "updatedAt": "2024-12-21T16:00:00.000Z"
+  },
+
+  {
+    "id": "63f1234567b89c8d90k12345",
+    "name": "Xiaomi 13 Pro",
+    "description": "The Xiaomi 13 Pro features a 50MP Leica-powered camera system, Snapdragon 8 Gen 2 processor, and a stunning 6.73-inch AMOLED display with 120Hz refresh rate.",
+    "price": 999.99,
+    "category": "Smartphones",
+    "brand": "Xiaomi",
+    "stock": 45,
+    "rating": 4.8,
+    "reviewsCount": 200,
+    "images": [
+      "https://example.com/images/xiaomi13pro-front.jpg",
+      "https://example.com/images/xiaomi13pro-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 8 Gen 2",
+      "ram": "12GB",
+      "storage": "256GB",
+      "battery": "4820mAh",
+      "camera": "50MP + 50MP + 50MP",
+      "display": "6.73-inch AMOLED, 120Hz"
+    },
+    "seller": {
+      "id": "63f2345678b89c8d90k23456",
+      "name": "Xiaomi Store",
+      "contactEmail": "support@xiaomi.com"
+    },
+    "createdAt": "2024-12-18T10:00:00.000Z",
+    "updatedAt": "2024-12-21T16:00:00.000Z"
+  },
+  {
+    "id": "63f2345678b89c8d90k23457",
+    "name": "Xiaomi Redmi Note 13 Pro",
+    "description": "The Xiaomi Redmi Note 13 Pro offers a 200MP main camera, MediaTek Dimensity 920 5G chipset, and a 6.67-inch AMOLED display with 120Hz refresh rate.",
+    "price": 349.99,
+    "category": "Smartphones",
+    "brand": "Xiaomi",
+    "stock": 100,
+    "rating": 4.6,
+    "reviewsCount": 180,
+    "images": [
+      "https://example.com/images/redminote13pro-front.jpg",
+      "https://example.com/images/redminote13pro-back.jpg"
+    ],
+    "specifications": {
+      "processor": "MediaTek Dimensity 920 5G",
+      "ram": "6GB",
+      "storage": "128GB",
+      "battery": "5000mAh",
+      "camera": "200MP + 8MP + 2MP",
+      "display": "6.67-inch AMOLED, 120Hz"
+    },
+    "seller": {
+      "id": "63f2345678b89c8d90k23458",
+      "name": "Xiaomi Official",
+      "contactEmail": "sales@xiaomi.com"
+    },
+    "createdAt": "2024-12-16T12:30:00.000Z",
+    "updatedAt": "2024-12-21T16:00:00.000Z"
+  },
+  {
+    "id": "63f3456789b89c8d90k34567",
+    "name": "Xiaomi Mi 11X Pro",
+    "description": "The Xiaomi Mi 11X Pro is powered by Snapdragon 888, featuring a 108MP triple camera setup, a 6.67-inch AMOLED display, and 33W fast charging.",
+    "price": 499.99,
+    "category": "Smartphones",
+    "brand": "Xiaomi",
+    "stock": 60,
+    "rating": 4.7,
+    "reviewsCount": 250,
+    "images": [
+      "https://example.com/images/mi11xpro-front.jpg",
+      "https://example.com/images/mi11xpro-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 888",
+      "ram": "8GB",
+      "storage": "128GB",
+      "battery": "4520mAh",
+      "camera": "108MP + 8MP + 5MP",
+      "display": "6.67-inch AMOLED, 120Hz"
+    },
+    "seller": {
+      "id": "63f4567890b89c8d90k45678",
+      "name": "MobileWorld",
+      "contactEmail": "info@mobileworld.com"
+    },
+    "createdAt": "2024-12-15T10:00:00.000Z",
+    "updatedAt": "2024-12-21T16:00:00.000Z"
+  },
+  {
+    "id": "63f4567890b89c8d90k45679",
+    "name": "Xiaomi Redmi Note 12 5G",
+    "description": "Xiaomi Redmi Note 12 5G comes with a 50MP AI camera, Snapdragon 4 Gen 1 processor, and a 6.67-inch AMOLED display, offering great value in the mid-range segment.",
+    "price": 229.99,
+    "category": "Smartphones",
+    "brand": "Xiaomi",
+    "stock": 120,
+    "rating": 4.4,
+    "reviewsCount": 95,
+    "images": [
+      "https://example.com/images/redminote12-front.jpg",
+      "https://example.com/images/redminote12-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 4 Gen 1",
+      "ram": "4GB",
+      "storage": "128GB",
+      "battery": "5000mAh",
+      "camera": "50MP + 8MP + 2MP",
+      "display": "6.67-inch AMOLED, 90Hz"
+    },
+    "seller": {
+      "id": "63f5678901b89c8d90k56780",
+      "name": "TechBazar",
+      "contactEmail": "contact@techbazar.com"
+    },
+    "createdAt": "2024-12-14T11:30:00.000Z",
+    "updatedAt": "2024-12-21T16:00:00.000Z"
+  },
+  {
+    "id": "63f5678901b89c8d90k56781",
+    "name": "Xiaomi Poco F5",
+    "description": "Xiaomi Poco F5 features a 64MP camera, Snapdragon 7+ Gen 2 chipset, and a 6.67-inch AMOLED display with 120Hz refresh rate, offering excellent performance for the price.",
+    "price": 379.99,
+    "category": "Smartphones",
+    "brand": "Xiaomi",
+    "stock": 85,
+    "rating": 4.6,
+    "reviewsCount": 210,
+    "images": [
+      "https://example.com/images/pocof5-front.jpg",
+      "https://example.com/images/pocof5-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 7+ Gen 2",
+      "ram": "8GB",
+      "storage": "128GB",
+      "battery": "5000mAh",
+      "camera": "64MP + 8MP + 2MP",
+      "display": "6.67-inch AMOLED, 120Hz"
+    },
+    "seller": {
+      "id": "63f6789012b89c8d90k67882",
+      "name": "Poco Official Store",
+      "contactEmail": "support@poco.com"
+    },
+    "createdAt": "2024-12-13T13:00:00.000Z",
+    "updatedAt": "2024-12-21T16:00:00.000Z"
+  },
+
+  {
+    "id": "63f6789012b89c8d90k67883",
+    "name": "Xiaomi 12T Pro",
+    "description": "The Xiaomi 12T Pro brings a 200MP main camera, Snapdragon 8+ Gen 1 processor, and a 6.67-inch AMOLED display with 120Hz refresh rate, delivering top-tier performance.",
+    "price": 799.99,
+    "category": "Smartphones",
+    "brand": "Xiaomi",
+    "stock": 40,
+    "rating": 4.9,
+    "reviewsCount": 150,
+    "images": [
+      "https://example.com/images/xiaomi12tpro-front.jpg",
+      "https://example.com/images/xiaomi12tpro-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 8+ Gen 1",
+      "ram": "12GB",
+      "storage": "256GB",
+      "battery": "5000mAh",
+      "camera": "200MP + 8MP + 2MP",
+      "display": "6.67-inch AMOLED, 120Hz"
+    },
+    "seller": {
+      "id": "63f7890123b89c8d90k78901",
+      "name": "Xiaomi Global Store",
+      "contactEmail": "global@xiaomi.com"
+    },
+    "createdAt": "2024-12-12T10:00:00.000Z",
+    "updatedAt": "2024-12-21T16:00:00.000Z"
+  },
+  {
+    "id": "63f7890123b89c8d90k78902",
+    "name": "Xiaomi Redmi K50",
+    "description": "Xiaomi Redmi K50 features a 48MP triple camera, Snapdragon 870 processor, and a 6.67-inch AMOLED display with 120Hz refresh rate, making it a performance-driven device.",
+    "price": 499.99,
+    "category": "Smartphones",
+    "brand": "Xiaomi",
+    "stock": 55,
+    "rating": 4.7,
+    "reviewsCount": 120,
+    "images": [
+      "https://example.com/images/redmik50-front.jpg",
+      "https://example.com/images/redmik50-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 870",
+      "ram": "8GB",
+      "storage": "128GB",
+      "battery": "4500mAh",
+      "camera": "48MP + 8MP + 2MP",
+      "display": "6.67-inch AMOLED, 120Hz"
+    },
+    "seller": {
+      "id": "63f8901234b89c8d90k89012",
+      "name": "Xiaomi Official",
+      "contactEmail": "sales@xiaomi.com"
+    },
+    "createdAt": "2024-12-10T14:00:00.000Z",
+    "updatedAt": "2024-12-21T16:00:00.000Z"
+  },
+  {
+    "id": "63f8901234b89c8d90k89013",
+    "name": "Xiaomi Mi 11 Ultra",
+    "description": "Xiaomi Mi 11 Ultra offers an impressive 50MP triple camera setup, Snapdragon 888 processor, and a 6.81-inch AMOLED display, perfect for multimedia enthusiasts.",
+    "price": 899.99,
+    "category": "Smartphones",
+    "brand": "Xiaomi",
+    "stock": 30,
+    "rating": 4.8,
+    "reviewsCount": 220,
+    "images": [
+      "https://example.com/images/mi11ultra-front.jpg",
+      "https://example.com/images/mi11ultra-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 888",
+      "ram": "12GB",
+      "storage": "256GB",
+      "battery": "5000mAh",
+      "camera": "50MP + 48MP + 48MP",
+      "display": "6.81-inch AMOLED, 120Hz"
+    },
+    "seller": {
+      "id": "63f9012345b89c8d90k90123",
+      "name": "Xiaomi Store",
+      "contactEmail": "xiaomi@store.com"
+    },
+    "createdAt": "2024-12-09T13:00:00.000Z",
+    "updatedAt": "2024-12-21T16:00:00.000Z"
+  },
+  {
+    "id": "63f9012345b89c8d90k90124",
+    "name": "Xiaomi Poco X5 Pro",
+    "description": "Xiaomi Poco X5 Pro comes with a 108MP camera, Snapdragon 695 chipset, and a 6.67-inch AMOLED display, offering excellent performance at a competitive price.",
+    "price": 349.99,
+    "category": "Smartphones",
+    "brand": "Xiaomi",
+    "stock": 75,
+    "rating": 4.5,
+    "reviewsCount": 100,
+    "images": [
+      "https://example.com/images/pocox5pro-front.jpg",
+      "https://example.com/images/pocox5pro-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 695",
+      "ram": "6GB",
+      "storage": "128GB",
+      "battery": "5000mAh",
+      "camera": "108MP + 8MP + 2MP",
+      "display": "6.67-inch AMOLED, 120Hz"
+    },
+    "seller": {
+      "id": "63f9123456b89c8d90k91234",
+      "name": "Poco Official Store",
+      "contactEmail": "support@poco.com"
+    },
+    "createdAt": "2024-12-08T11:30:00.000Z",
+    "updatedAt": "2024-12-21T16:00:00.000Z"
+  },
+  {
+    "id": "63f9123456b89c8d90k91235",
+    "name": "Xiaomi Mi 10T Pro",
+    "description": "The Xiaomi Mi 10T Pro features a 108MP triple camera setup, Snapdragon 865 processor, and a 6.67-inch IPS LCD display with 144Hz refresh rate for smooth performance.",
+    "price": 599.99,
+    "category": "Smartphones",
+    "brand": "Xiaomi",
+    "stock": 50,
+    "rating": 4.6,
+    "reviewsCount": 130,
+    "images": [
+      "https://example.com/images/mi10tpro-front.jpg",
+      "https://example.com/images/mi10tpro-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 865",
+      "ram": "8GB",
+      "storage": "128GB",
+      "battery": "5000mAh",
+      "camera": "108MP + 13MP + 5MP",
+      "display": "6.67-inch IPS LCD, 144Hz"
+    },
+    "seller": {
+      "id": "63f9234567b89c8d90k92345",
+      "name": "Xiaomi Global Store",
+      "contactEmail": "global@xiaomi.com"
+    },
+    "createdAt": "2024-12-07T10:00:00.000Z",
+    "updatedAt": "2024-12-21T16:00:00.000Z"
+  },
+
+  {
+    "id": "69a1234567b89c8d90e10011",
+    "name": "Vivo X90 Pro",
+    "description": "The Vivo X90 Pro comes with a ZEISS-certified camera system, MediaTek Dimensity 9200 processor, and a sleek AMOLED display for exceptional performance.",
+    "price": 999.99,
+    "category": "Smartphones",
+    "brand": "Vivo",
+    "stock": 75,
+    "rating": 4.7,
+    "reviewsCount": 230,
+    "images": [
+      "https://example.com/images/x90pro-front.jpg",
+      "https://example.com/images/x90pro-back.jpg"
+    ],
+    "specifications": {
+      "processor": "MediaTek Dimensity 9200",
+      "ram": "12GB",
+      "storage": "256GB",
+      "battery": "4870mAh",
+      "camera": "50MP + 50MP + 12MP",
+      "display": "6.78-inch AMOLED, 120Hz"
+    },
+    "seller": {
+      "id": "69a2345678b89c8d90e34568",
+      "name": "Vivo Elite Store",
+      "contactEmail": "sales@vivoelite.com"
+    },
+    "createdAt": "2024-12-21T09:00:00.000Z",
+    "updatedAt": "2024-12-22T13:00:00.000Z"
+  },
+  {
+    "id": "69a1234567b89c8d90e10012",
+    "name": "Vivo V29 5G",
+    "description": "The Vivo V29 5G offers a brilliant AMOLED display, Snapdragon 778G processor, and outstanding 5G connectivity for a seamless experience.",
+    "price": 429.99,
+    "category": "Smartphones",
+    "brand": "Vivo",
+    "stock": 110,
+    "rating": 4.5,
+    "reviewsCount": 150,
+    "images": [
+      "https://example.com/images/v29-5g-front.jpg",
+      "https://example.com/images/v29-5g-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 778G",
+      "ram": "8GB",
+      "storage": "128GB",
+      "battery": "4600mAh",
+      "camera": "64MP + 8MP + 2MP",
+      "display": "6.7-inch AMOLED, 120Hz"
+    },
+    "seller": {
+      "id": "69a2345678b89c8d90e34568",
+      "name": "Vivo Elite Store",
+      "contactEmail": "sales@vivoelite.com"
+    },
+    "createdAt": "2024-12-21T09:30:00.000Z",
+    "updatedAt": "2024-12-22T13:30:00.000Z"
+  },
+  {
+    "id": "69a1234567b89c8d90e10013",
+    "name": "Vivo Y78",
+    "description": "The Vivo Y78 is a budget-friendly device featuring a long-lasting battery, MediaTek Dimensity 6020 chipset, and an FHD+ display.",
+    "price": 279.99,
+    "category": "Smartphones",
+    "brand": "Vivo",
+    "stock": 130,
+    "rating": 4.4,
+    "reviewsCount": 100,
+    "images": [
+      "https://example.com/images/y78-front.jpg",
+      "https://example.com/images/y78-back.jpg"
+    ],
+    "specifications": {
+      "processor": "MediaTek Dimensity 6020",
+      "ram": "6GB",
+      "storage": "128GB",
+      "battery": "5000mAh",
+      "camera": "50MP + 2MP",
+      "display": "6.58-inch LCD, 120Hz"
+    },
+    "seller": {
+      "id": "69a2345678b89c8d90e34568",
+      "name": "Vivo Elite Store",
+      "contactEmail": "sales@vivoelite.com"
+    },
+    "createdAt": "2024-12-21T10:00:00.000Z",
+    "updatedAt": "2024-12-22T14:00:00.000Z"
+  },
+  {
+    "id": "69a1234567b89c8d90e10014",
+    "name": "Vivo T2 Pro",
+    "description": "The Vivo T2 Pro provides a powerful Snapdragon 870 processor, ultra-fast charging, and a sleek, modern design.",
+    "price": 349.99,
+    "category": "Smartphones",
+    "brand": "Vivo",
+    "stock": 95,
+    "rating": 4.6,
+    "reviewsCount": 120,
+    "images": [
+      "https://example.com/images/t2pro-front.jpg",
+      "https://example.com/images/t2pro-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 870",
+      "ram": "8GB",
+      "storage": "128GB",
+      "battery": "4700mAh",
+      "camera": "64MP + 8MP",
+      "display": "6.62-inch AMOLED, 120Hz"
+    },
+    "seller": {
+      "id": "69a2345678b89c8d90e34568",
+      "name": "Vivo Elite Store",
+      "contactEmail": "sales@vivoelite.com"
+    },
+    "createdAt": "2024-12-21T10:30:00.000Z",
+    "updatedAt": "2024-12-22T14:30:00.000Z"
+  },
+  {
+    "id": "69a1234567b89c8d90e10015",
+    "name": "Vivo Z1 Pro",
+    "description": "The Vivo Z1 Pro is designed for gaming enthusiasts, offering a Snapdragon 712 processor, Game Turbo technology, and a large display.",
+    "price": 319.99,
+    "category": "Smartphones",
+    "brand": "Vivo",
+    "stock": 150,
+    "rating": 4.5,
+    "reviewsCount": 140,
+    "images": [
+      "https://example.com/images/z1pro-front.jpg",
+      "https://example.com/images/z1pro-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 712",
+      "ram": "6GB",
+      "storage": "128GB",
+      "battery": "5000mAh",
+      "camera": "32MP + 8MP + 2MP",
+      "display": "6.53-inch LCD, 60Hz"
+    },
+    "seller": {
+      "id": "69a2345678b89c8d90e34568",
+      "name": "Vivo Elite Store",
+      "contactEmail": "sales@vivoelite.com"
+    },
+    "createdAt": "2024-12-21T11:00:00.000Z",
+    "updatedAt": "2024-12-22T15:00:00.000Z"
+  },
+
+  {
+    "id": "69a1234567b89c8d90e10016",
+    "name": "Vivo V23e 5G",
+    "description": "The Vivo V23e 5G offers a 50MP front camera, sleek design, MediaTek Dimensity 810 processor, and 5G connectivity for an enhanced experience.",
+    "price": 399.99,
+    "category": "Smartphones",
+    "brand": "Vivo",
+    "stock": 85,
+    "rating": 4.6,
+    "reviewsCount": 170,
+    "images": [
+      "https://example.com/images/v23e-5g-front.jpg",
+      "https://example.com/images/v23e-5g-back.jpg"
+    ],
+    "specifications": {
+      "processor": "MediaTek Dimensity 810",
+      "ram": "8GB",
+      "storage": "128GB",
+      "battery": "4050mAh",
+      "camera": "50MP + 8MP + 2MP",
+      "display": "6.44-inch AMOLED, 60Hz"
+    },
+    "seller": {
+      "id": "69a2345678b89c8d90e34569",
+      "name": "Vivo Elite Store",
+      "contactEmail": "sales@vivoelite.com"
+    },
+    "createdAt": "2024-12-21T11:30:00.000Z",
+    "updatedAt": "2024-12-22T15:30:00.000Z"
+  },
+  {
+    "id": "69a1234567b89c8d90e10017",
+    "name": "Vivo Y55s 5G",
+    "description": "The Vivo Y55s 5G features a large 6.58-inch LCD screen, MediaTek Dimensity 700 chipset, and a dual-camera setup for great photos and performance.",
+    "price": 259.99,
+    "category": "Smartphones",
+    "brand": "Vivo",
+    "stock": 150,
+    "rating": 4.3,
+    "reviewsCount": 130,
+    "images": [
+      "https://example.com/images/y55s-5g-front.jpg",
+      "https://example.com/images/y55s-5g-back.jpg"
+    ],
+    "specifications": {
+      "processor": "MediaTek Dimensity 700",
+      "ram": "6GB",
+      "storage": "128GB",
+      "battery": "5000mAh",
+      "camera": "50MP + 2MP",
+      "display": "6.58-inch LCD, 60Hz"
+    },
+    "seller": {
+      "id": "69a2345678b89c8d90e34569",
+      "name": "Vivo Elite Store",
+      "contactEmail": "sales@vivoelite.com"
+    },
+    "createdAt": "2024-12-21T12:00:00.000Z",
+    "updatedAt": "2024-12-22T16:00:00.000Z"
+  },
+  {
+    "id": "69a1234567b89c8d90e10018",
+    "name": "Vivo Y73",
+    "description": "The Vivo Y73 is a stylish budget phone with a 64MP triple-camera setup, Snapdragon 678 chipset, and a 6.44-inch AMOLED display.",
+    "price": 299.99,
+    "category": "Smartphones",
+    "brand": "Vivo",
+    "stock": 120,
+    "rating": 4.4,
+    "reviewsCount": 140,
+    "images": [
+      "https://example.com/images/y73-front.jpg",
+      "https://example.com/images/y73-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 678",
+      "ram": "8GB",
+      "storage": "128GB",
+      "battery": "4000mAh",
+      "camera": "64MP + 2MP + 2MP",
+      "display": "6.44-inch AMOLED, 60Hz"
+    },
+    "seller": {
+      "id": "69a2345678b89c8d90e34569",
+      "name": "Vivo Elite Store",
+      "contactEmail": "sales@vivoelite.com"
+    },
+    "createdAt": "2024-12-21T12:30:00.000Z",
+    "updatedAt": "2024-12-22T16:30:00.000Z"
+  },
+  {
+    "id": "69a1234567b89c8d90e10019",
+    "name": "Vivo S15 Pro",
+    "description": "The Vivo S15 Pro offers a 50MP selfie camera, Snapdragon 870 chipset, and fast charging capabilities for an ultra-responsive experience.",
+    "price": 499.99,
+    "category": "Smartphones",
+    "brand": "Vivo",
+    "stock": 95,
+    "rating": 4.7,
+    "reviewsCount": 200,
+    "images": [
+      "https://example.com/images/s15pro-front.jpg",
+      "https://example.com/images/s15pro-back.jpg"
+    ],
+    "specifications": {
+      "processor": "Snapdragon 870",
+      "ram": "12GB",
+      "storage": "256GB",
+      "battery": "4500mAh",
+      "camera": "50MP + 13MP + 2MP",
+      "display": "6.56-inch AMOLED, 120Hz"
+    },
+    "seller": {
+      "id": "69a2345678b89c8d90e34569",
+      "name": "Vivo Elite Store",
+      "contactEmail": "sales@vivoelite.com"
+    },
+    "createdAt": "2024-12-21T13:00:00.000Z",
+    "updatedAt": "2024-12-22T17:00:00.000Z"
+  },
+  {
+    "id": "69a1234567b89c8d90e10020",
+    "name": "Vivo V21e",
+    "description": "The Vivo V21e offers an ultra-slim design, 44MP front camera, MediaTek Dimensity 700, and a 6.44-inch AMOLED display.",
+    "price": 359.99,
+    "category": "Smartphones",
+    "brand": "Vivo",
+    "stock": 100,
+    "rating": 4.5,
+    "reviewsCount": 190,
+    "images": [
+      "https://example.com/images/v21e-front.jpg",
+      "https://example.com/images/v21e-back.jpg"
+    ],
+    "specifications": {
+      "processor": "MediaTek Dimensity 700",
+      "ram": "8GB",
+      "storage": "128GB",
+      "battery": "4000mAh",
+      "camera": "64MP + 8MP",
+      "display": "6.44-inch AMOLED, 60Hz"
+    },
+    "seller": {
+      "id": "69a2345678b89c8d90e34569",
+      "name": "Vivo Elite Store",
+      "contactEmail": "sales@vivoelite.com"
+    },
+    "createdAt": "2024-12-21T13:30:00.000Z",
+    "updatedAt": "2024-12-22T17:30:00.000Z"
+  }
+]

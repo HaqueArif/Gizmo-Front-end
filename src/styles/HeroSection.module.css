@@ -1,0 +1,11 @@
+.main_container {
+  @apply relative  text-black min-h-[calc(100vh-80px)] flex items-center justify-center py-10;
+}
+.background {
+  @apply absolute h-full w-full z-[-1];
+  background: linear-gradient(90deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../../public/heroBanner.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
