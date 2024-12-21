@@ -8,7 +8,7 @@ import Loader from "../components/Loader";
 const ProductDetails = () => {
   const { id } = useParams(); // Get the product id from the URL
   const { loading, error, getProductById } = useFetchData(
-    `http://localhost:5000/products`
+    `https://gizmo-eight.vercel.app/products`
   );
   if (loading) {
     return <Loader />;

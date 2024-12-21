@@ -25,7 +25,9 @@ const AllProducts = () => {
     data: products,
     loading,
     error,
-  } = useFetchData(`http://localhost:5000/products?${queryParams.toString()}`);
+  } = useFetchData(
+    `https://gizmo-eight.vercel.app/products?${queryParams.toString()}`
+  );
 
   const handleKeyDown = (e) => {
     if (e.key === "Enter") {

@@ -7,7 +7,7 @@ const NewArrivals = () => {
     data: products,
     loading,
     error,
-  } = useFetchData("http://localhost:5000/products/");
+  } = useFetchData("https://gizmo-eight.vercel.app/products/");
 
   if (loading) {
     return <Loader />;
