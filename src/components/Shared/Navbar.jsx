@@ -28,25 +28,20 @@ const Navbar = () => {
             className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow"
           >
             <li>
-              <a>Item 1</a>
+              <NavLink to="/about">About</NavLink>
             </li>
             <li>
-              <a>Parent</a>
-              <ul className="p-2">
-                <li>
-                  <a>Submenu 1</a>
-                </li>
-                <li>
-                  <a>Submenu 2</a>
-                </li>
-              </ul>
+              <NavLink to="/contact">Contact</NavLink>
             </li>
             <li>
-              <a>Item 3</a>
+              <NavLink to="/allProducts">Products</NavLink>
             </li>
           </ul>
         </div>
-        <a className="btn btn-ghost text-xl">daisyUI</a>
+        <NavLink to="/" className="text-xl font-bold px-5">
+          <span className="transform rotate-[180deg] inline-block">G</span>
+          izmo
+        </NavLink>
       </div>
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1">
@@ -96,7 +91,7 @@ const Navbar = () => {
                 <span className="text-info">Subtotal: $999</span>
                 <div className="card-actions">
                   <button className="btn btn-primary btn-block">
-                    View cart
+                    <NavLink to="dashboard/cart">View cart</NavLink>
                   </button>
                 </div>
               </div>
@@ -121,10 +116,10 @@ const Navbar = () => {
                 className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow"
               >
                 <li>
-                  <a className="justify-between">
-                    Profile
+                  <NavLink to="/dashboard" className="justify-between">
+                    Dashboard
                     <span className="badge">New</span>
-                  </a>
+                  </NavLink>
                 </li>
                 <li>
                   <a>Settings</a>

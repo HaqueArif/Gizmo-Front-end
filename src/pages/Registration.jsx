@@ -22,9 +22,11 @@ const Registration = () => {
         name: data.name,
         email: data.email,
         password: data.password,
+        wishlist: [],
+        cart: [],
       };
 
-      const response = await fetch("https://gizmo-eight.vercel.app/register", {
+      const response = await fetch("http://localhost:5000/register", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

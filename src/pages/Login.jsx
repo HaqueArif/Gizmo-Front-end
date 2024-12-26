@@ -1,4 +1,4 @@
-import { NavLink, useNavigate } from "react-router-dom";
+import { NavLink, useLocation, useNavigate } from "react-router-dom";
 import { toast } from "sonner";
 import { FormSection } from "../components/form/FormSection";
 import { Input } from "../components/form/Input";
@@ -10,6 +10,7 @@ import { verifyToken } from "../utils/verifyToken";
 
 const Login = () => {
   const navigate = useNavigate();
+  const location = useLocation();
 
   const {
     register,
@@ -21,7 +22,7 @@ const Login = () => {
     const toastId = toast.loading("Logging in");
 
     try {
-      const response = await fetch("https://gizmo-eight.vercel.app/login", {
+      const response = await fetch("http://localhost:5000/login", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -45,7 +46,8 @@ const Login = () => {
       localStorage.setItem("user", JSON.stringify(user));
 
       toast.success("Logged in successfully", { id: toastId, duration: 2000 });
-      navigate(`/`);
+      const from = location.state?.from || "/";
+      navigate(from);
     } catch (error) {
       toast.error(error.message || "Something went wrong", {
         id: toastId,
