@@ -2,8 +2,8 @@ import { Edit, Trash } from "lucide-react";
 import useGetAllUsers from "../../components/hooks/useGetAllUsers";
 import Container from "../../components/Shared/Container";
 import { useState } from "react";
-import UpdateUser from "../../components/handler/updateUser";
-import DeleteUser from "../../components/handler/deleteUser";
+import UpdateUser from "../../components/UpdateUser";
+import DeleteUser from "../../components/DeleteUser";
 
 const Users = () => {
   const { users, loading, error, refetch } = useGetAllUsers();
